@@ -13,7 +13,7 @@ This repository contains all data and scripts that are nescessary to replicate t
 The program requires Python 3, the sabcom package and all its requirements.
 
 # Website and Social Media
-https://www.sabcom.co.za
+https://sabcom.co.za
 
 https://twitter.com/SABCOM5
 
