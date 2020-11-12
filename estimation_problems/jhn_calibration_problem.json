@@ -1,0 +1,1 @@
+{"num_vars": 1, "names": ["total_initial_infections"], "bounds": [[100, 5000]], "initial": [1500.0], "integer": [true]}

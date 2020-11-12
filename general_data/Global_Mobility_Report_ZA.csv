@@ -1,0 +1,1831 @@
+,country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+1838228,ZA,South Africa,,,,,,2020-02-15,4,0,-2,-2,1,-2
+1838229,ZA,South Africa,,,,,,2020-02-16,-3,-1,-10,-6,-1,0
+1838230,ZA,South Africa,,,,,,2020-02-17,-10,-10,-10,3,4,1
+1838231,ZA,South Africa,,,,,,2020-02-18,-12,-12,-8,0,4,1
+1838232,ZA,South Africa,,,,,,2020-02-19,-12,-12,-7,-2,3,1
+1838233,ZA,South Africa,,,,,,2020-02-20,-5,-6,-6,1,3,-1
+1838234,ZA,South Africa,,,,,,2020-02-21,-3,-6,-4,4,3,-3
+1838235,ZA,South Africa,,,,,,2020-02-22,-4,-8,-18,-8,2,0
+1838236,ZA,South Africa,,,,,,2020-02-23,-9,-6,-21,-12,-1,3
+1838237,ZA,South Africa,,,,,,2020-02-24,-11,-13,-10,-2,5,1
+1838238,ZA,South Africa,,,,,,2020-02-25,-1,-1,-5,2,5,-1
+1838239,ZA,South Africa,,,,,,2020-02-26,1,-1,-4,4,5,-1
+1838240,ZA,South Africa,,,,,,2020-02-27,6,5,-6,6,5,-1
+1838241,ZA,South Africa,,,,,,2020-02-28,12,11,-6,17,4,-2
+1838242,ZA,South Africa,,,,,,2020-02-29,20,14,-8,8,5,-2
+1838243,ZA,South Africa,,,,,,2020-03-01,18,21,-3,9,7,-1
+1838244,ZA,South Africa,,,,,,2020-03-02,4,5,-7,10,7,1
+1838245,ZA,South Africa,,,,,,2020-03-03,2,5,-1,11,9,-1
+1838246,ZA,South Africa,,,,,,2020-03-04,3,5,-1,9,8,0
+1838247,ZA,South Africa,,,,,,2020-03-05,4,7,-1,9,8,0
+1838248,ZA,South Africa,,,,,,2020-03-06,7,8,1,13,8,-1
+1838249,ZA,South Africa,,,,,,2020-03-07,8,6,-3,2,6,0
+1838250,ZA,South Africa,,,,,,2020-03-08,-1,3,-12,-5,3,2
+1838251,ZA,South Africa,,,,,,2020-03-09,-8,-7,-11,1,6,1
+1838252,ZA,South Africa,,,,,,2020-03-10,-9,-8,-9,0,5,-1
+1838253,ZA,South Africa,,,,,,2020-03-11,-9,-8,-7,-2,4,-2
+1838254,ZA,South Africa,,,,,,2020-03-12,-6,-5,-6,-4,3,-2
+1838255,ZA,South Africa,,,,,,2020-03-13,1,2,-5,-1,3,-4
+1838256,ZA,South Africa,,,,,,2020-03-14,2,1,-10,-8,4,-1
+1838257,ZA,South Africa,,,,,,2020-03-15,-6,0,-18,-14,2,2
+1838258,ZA,South Africa,,,,,,2020-03-16,-10,1,-18,-11,2,3
+1838259,ZA,South Africa,,,,,,2020-03-17,-15,-4,-16,-14,-3,5
+1838260,ZA,South Africa,,,,,,2020-03-18,-14,-4,-12,-16,-8,7
+1838261,ZA,South Africa,,,,,,2020-03-19,-16,-5,-10,-20,-14,9
+1838262,ZA,South Africa,,,,,,2020-03-20,-14,1,-14,-19,-15,9
+1838263,ZA,South Africa,,,,,,2020-03-21,-24,-6,-21,-26,-18,8
+1838264,ZA,South Africa,,,,,,2020-03-22,-31,-10,-23,-36,-11,9
+1838265,ZA,South Africa,,,,,,2020-03-23,-20,-4,-15,-33,-21,11
+1838266,ZA,South Africa,,,,,,2020-03-24,-7,18,-16,-28,-22,9
+1838267,ZA,South Africa,,,,,,2020-03-25,9,34,-13,-19,-24,7
+1838268,ZA,South Africa,,,,,,2020-03-26,16,59,-9,-26,-32,6
+1838269,ZA,South Africa,,,,,,2020-03-27,-80,-61,-47,-81,-75,40
+1838270,ZA,South Africa,,,,,,2020-03-28,-80,-60,-59,-79,-58,28
+1838271,ZA,South Africa,,,,,,2020-03-29,-79,-60,-55,-80,-49,24
+1838272,ZA,South Africa,,,,,,2020-03-30,-73,-51,-42,-79,-74,36
+1838273,ZA,South Africa,,,,,,2020-03-31,-72,-47,-40,-78,-74,35
+1838274,ZA,South Africa,,,,,,2020-04-01,-70,-42,-38,-77,-73,35
+1838275,ZA,South Africa,,,,,,2020-04-02,-70,-41,-38,-78,-73,37
+1838276,ZA,South Africa,,,,,,2020-04-03,-72,-42,-43,-78,-73,38
+1838277,ZA,South Africa,,,,,,2020-04-04,-77,-52,-57,-77,-55,27
+1838278,ZA,South Africa,,,,,,2020-04-05,-76,-51,-53,-78,-44,22
+1838279,ZA,South Africa,,,,,,2020-04-06,-72,-48,-41,-79,-73,37
+1838280,ZA,South Africa,,,,,,2020-04-07,-73,-46,-41,-78,-73,36
+1838281,ZA,South Africa,,,,,,2020-04-08,-73,-44,-40,-80,-74,36
+1838282,ZA,South Africa,,,,,,2020-04-09,-68,-34,-39,-79,-74,36
+1838283,ZA,South Africa,,,,,,2020-04-10,-82,-62,-48,-84,-85,44
+1838284,ZA,South Africa,,,,,,2020-04-11,-75,-46,-58,-78,-56,27
+1838285,ZA,South Africa,,,,,,2020-04-12,-78,-54,-57,-81,-46,23
+1838286,ZA,South Africa,,,,,,2020-04-13,-80,-61,-46,-85,-85,42
+1838287,ZA,South Africa,,,,,,2020-04-14,-72,-46,-45,-80,-72,36
+1838288,ZA,South Africa,,,,,,2020-04-15,-68,-38,-41,-78,-72,36
+1838289,ZA,South Africa,,,,,,2020-04-16,-69,-38,-40,-79,-71,36
+1838290,ZA,South Africa,,,,,,2020-04-17,-71,-38,-45,-78,-70,38
+1838291,ZA,South Africa,,,,,,2020-04-18,-76,-48,-60,-76,-52,26
+1838292,ZA,South Africa,,,,,,2020-04-19,-78,-52,-58,-79,-42,23
+1838293,ZA,South Africa,,,,,,2020-04-20,-72,-47,-45,-78,-69,35
+1838294,ZA,South Africa,,,,,,2020-04-21,-73,-47,-45,-78,-69,35
+1838295,ZA,South Africa,,,,,,2020-04-22,-73,-46,-44,-79,-69,35
+1838296,ZA,South Africa,,,,,,2020-04-23,-72,-44,-44,-79,-69,35
+1838297,ZA,South Africa,,,,,,2020-04-24,-69,-36,-47,-77,-68,36
+1838298,ZA,South Africa,,,,,,2020-04-25,-69,-36,-58,-73,-48,23
+1838299,ZA,South Africa,,,,,,2020-04-26,-72,-40,-57,-78,-40,22
+1838300,ZA,South Africa,,,,,,2020-04-27,-76,-52,-47,-82,-82,40
+1838301,ZA,South Africa,,,,,,2020-04-28,-68,-39,-44,-76,-67,32
+1838302,ZA,South Africa,,,,,,2020-04-29,-67,-37,-41,-75,-67,33
+1838303,ZA,South Africa,,,,,,2020-04-30,-62,-27,-37,-73,-65,31
+1838304,ZA,South Africa,,,,,,2020-05-01,-61,-31,-39,-73,-76,35
+1838305,ZA,South Africa,,,,,,2020-05-02,-54,-22,-51,-60,-35,20
+1838306,ZA,South Africa,,,,,,2020-05-03,-59,-28,-50,-66,-26,18
+1838307,ZA,South Africa,,,,,,2020-05-04,-47,-24,-33,-61,-52,26
+1838308,ZA,South Africa,,,,,,2020-05-05,-51,-25,-33,-61,-53,26
+1838309,ZA,South Africa,,,,,,2020-05-06,-49,-20,-31,-58,-52,26
+1838310,ZA,South Africa,,,,,,2020-05-07,-48,-19,-30,-59,-52,26
+1838311,ZA,South Africa,,,,,,2020-05-08,-53,-22,-38,-64,-51,29
+1838312,ZA,South Africa,,,,,,2020-05-09,-51,-19,-51,-61,-28,19
+1838313,ZA,South Africa,,,,,,2020-05-10,-58,-25,-50,-68,-21,17
+1838314,ZA,South Africa,,,,,,2020-05-11,-52,-32,-36,-63,-50,27
+1838315,ZA,South Africa,,,,,,2020-05-12,-53,-30,-36,-62,-50,26
+1838316,ZA,South Africa,,,,,,2020-05-13,-53,-29,-34,-63,-50,26
+1838317,ZA,South Africa,,,,,,2020-05-14,-52,-27,-33,-63,-50,26
+1838318,ZA,South Africa,,,,,,2020-05-15,-51,-22,-37,-62,-48,27
+1838319,ZA,South Africa,,,,,,2020-05-16,-51,-22,-49,-59,-25,18
+1838320,ZA,South Africa,,,,,,2020-05-17,-58,-29,-49,-67,-20,18
+1838321,ZA,South Africa,,,,,,2020-05-18,-50,-31,-36,-63,-47,26
+1838322,ZA,South Africa,,,,,,2020-05-19,-52,-31,-35,-63,-48,25
+1838323,ZA,South Africa,,,,,,2020-05-20,-50,-26,-33,-62,-48,26
+1838324,ZA,South Africa,,,,,,2020-05-21,-49,-24,-33,-62,-48,26
+1838325,ZA,South Africa,,,,,,2020-05-22,-50,-23,-38,-62,-46,27
+1838326,ZA,South Africa,,,,,,2020-05-23,-49,-20,-49,-58,-22,17
+1838327,ZA,South Africa,,,,,,2020-05-24,-55,-26,-48,-66,-18,17
+1838328,ZA,South Africa,,,,,,2020-05-25,-46,-26,-37,-62,-47,25
+1838329,ZA,South Africa,,,,,,2020-05-26,-46,-24,-37,-60,-45,24
+1838330,ZA,South Africa,,,,,,2020-05-27,-44,-19,-34,-60,-44,24
+1838331,ZA,South Africa,,,,,,2020-05-28,-43,-17,-34,-60,-43,24
+1838332,ZA,South Africa,,,,,,2020-05-29,-42,-13,-37,-57,-42,24
+1838333,ZA,South Africa,,,,,,2020-05-30,-40,-9,-46,-50,-14,15
+1838334,ZA,South Africa,,,,,,2020-05-31,-45,-12,-44,-58,-7,14
+1838335,ZA,South Africa,,,,,,2020-06-01,-25,-5,-23,-48,-35,19
+1838336,ZA,South Africa,,,,,,2020-06-02,-33,-12,-25,-49,-35,20
+1838337,ZA,South Africa,,,,,,2020-06-03,-32,-9,-24,-50,-35,20
+1838338,ZA,South Africa,,,,,,2020-06-04,-29,-4,-21,-50,-35,20
+1838339,ZA,South Africa,,,,,,2020-06-05,-34,-10,-28,-49,-35,21
+1838340,ZA,South Africa,,,,,,2020-06-06,-34,-9,-35,-46,-11,13
+1838341,ZA,South Africa,,,,,,2020-06-07,-42,-15,-31,-55,-6,13
+1838342,ZA,South Africa,,,,,,2020-06-08,-32,-14,-26,-50,-33,19
+1838343,ZA,South Africa,,,,,,2020-06-09,-35,-15,-26,-50,-33,19
+1838344,ZA,South Africa,,,,,,2020-06-10,-37,-16,-28,-51,-34,21
+1838345,ZA,South Africa,,,,,,2020-06-11,-33,-12,-28,-52,-35,21
+1838346,ZA,South Africa,,,,,,2020-06-12,-36,-16,-31,-53,-34,21
+1838347,ZA,South Africa,,,,,,2020-06-13,-37,-16,-37,-50,-10,14
+1838348,ZA,South Africa,,,,,,2020-06-14,-45,-23,-33,-59,-6,14
+1838349,ZA,South Africa,,,,,,2020-06-15,-25,-10,-22,-51,-38,19
+1838350,ZA,South Africa,,,,,,2020-06-16,-47,-29,-15,-66,-70,31
+1838351,ZA,South Africa,,,,,,2020-06-17,-34,-15,-25,-52,-34,19
+1838352,ZA,South Africa,,,,,,2020-06-18,-32,-13,-24,-53,-35,20
+1838353,ZA,South Africa,,,,,,2020-06-19,-34,-14,-27,-52,-34,20
+1838354,ZA,South Africa,,,,,,2020-06-20,-32,-10,-34,-50,-8,13
+1838355,ZA,South Africa,,,,,,2020-06-21,-44,-20,-34,-59,-3,13
+1838356,ZA,South Africa,,,,,,2020-06-22,-35,-23,-26,-59,-37,20
+1838357,ZA,South Africa,,,,,,2020-06-23,-36,-20,-23,-52,-36,19
+1838358,ZA,South Africa,,,,,,2020-06-24,-34,-18,-22,-52,-34,19
+1838359,ZA,South Africa,,,,,,2020-06-25,-22,0,-23,-50,-34,18
+1838360,ZA,South Africa,,,,,,2020-06-26,-25,-4,-27,-48,-34,18
+1838361,ZA,South Africa,,,,,,2020-06-27,-26,-4,-36,-45,-10,12
+1838362,ZA,South Africa,,,,,,2020-06-28,-33,-8,-30,-54,-5,12
+1838363,ZA,South Africa,,,,,,2020-06-29,-26,-13,-26,-48,-34,18
+1838364,ZA,South Africa,,,,,,2020-06-30,-22,-5,-20,-46,-33,17
+1838365,ZA,South Africa,,,,,,2020-07-01,-22,-3,-16,-45,-32,17
+1838366,ZA,South Africa,,,,,,2020-07-02,-19,3,-18,-46,-33,18
+1838367,ZA,South Africa,,,,,,2020-07-03,-23,-3,-19,-43,-33,18
+1838368,ZA,South Africa,,,,,,2020-07-04,-25,-4,-26,-41,-8,12
+1838369,ZA,South Africa,,,,,,2020-07-05,-32,-10,-25,-50,-3,12
+1838370,ZA,South Africa,,,,,,2020-07-06,-23,-9,-21,-46,-34,18
+1838371,ZA,South Africa,,,,,,2020-07-07,-26,-8,-21,-46,-34,18
+1838372,ZA,South Africa,,,,,,2020-07-08,-28,-9,-20,-49,-34,18
+1838373,ZA,South Africa,,,,,,2020-07-09,-29,-8,-26,-51,-36,20
+1838374,ZA,South Africa,,,,,,2020-07-10,-33,-13,-29,-51,-36,20
+1838375,ZA,South Africa,,,,,,2020-07-11,-37,-18,-40,-52,-14,14
+1838376,ZA,South Africa,,,,,,2020-07-12,-39,-20,-27,-56,-9,12
+1838377,ZA,South Africa,,,,,,2020-07-13,-36,-22,-30,-54,-37,19
+1838378,ZA,South Africa,,,,,,2020-07-14,-37,-23,-29,-54,-37,19
+1838379,ZA,South Africa,,,,,,2020-07-15,-30,-12,-24,-53,-35,19
+1838380,ZA,South Africa,,,,,,2020-07-16,-29,-11,-22,-52,-36,19
+1838381,ZA,South Africa,,,,,,2020-07-17,-31,-11,-25,-51,-35,20
+1838382,ZA,South Africa,,,,,,2020-07-18,-33,-13,-30,-50,-11,14
+1838383,ZA,South Africa,,,,,,2020-07-19,-39,-18,-24,-58,-9,14
+1838384,ZA,South Africa,,,,,,2020-07-20,-32,-18,-26,-53,-35,19
+1838385,ZA,South Africa,,,,,,2020-07-21,-35,-20,-24,-53,-36,19
+1838386,ZA,South Africa,,,,,,2020-07-22,-33,-17,-23,-52,-34,20
+1838387,ZA,South Africa,,,,,,2020-07-23,-31,-14,-21,-53,-35,20
+1838388,ZA,South Africa,,,,,,2020-07-24,-25,-6,-22,-49,-33,19
+1838389,ZA,South Africa,,,,,,2020-07-25,-20,0,-25,-44,-10,12
+1838390,ZA,South Africa,,,,,,2020-07-26,-29,-6,-26,-53,-8,12
+1838391,ZA,South Africa,,,,,,2020-07-27,-25,-11,-24,-50,-38,20
+1838392,ZA,South Africa,,,,,,2020-07-28,-27,-10,-23,-49,-38,19
+1838393,ZA,South Africa,,,,,,2020-07-29,-25,-8,-19,-49,-38,19
+1838394,ZA,South Africa,,,,,,2020-07-30,-23,-5,-18,-49,-38,19
+1838395,ZA,South Africa,,,,,,2020-07-31,-19,2,-17,-44,-37,18
+1838396,ZA,South Africa,,,,,,2020-08-01,-18,4,-18,-39,-10,10
+1838397,ZA,South Africa,,,,,,2020-08-02,-22,1,-11,-46,-5,10
+1838398,ZA,South Africa,,,,,,2020-08-03,-20,-6,-18,-45,-34,18
+1838399,ZA,South Africa,,,,,,2020-08-04,-23,-6,-20,-45,-35,18
+1838400,ZA,South Africa,,,,,,2020-08-05,-21,-3,-17,-44,-34,18
+1838401,ZA,South Africa,,,,,,2020-08-06,-20,-1,-16,-45,-35,18
+1838402,ZA,South Africa,,,,,,2020-08-07,-22,-3,-10,-43,-35,17
+1838403,ZA,South Africa,,,,,,2020-08-08,-22,-4,-14,-41,-10,10
+1838404,ZA,South Africa,,,,,,2020-08-09,-31,-13,-13,-52,-9,11
+1838405,ZA,South Africa,,,,,,2020-08-10,-34,-24,8,-58,-73,26
+1838406,ZA,South Africa,,,,,,2020-08-11,-28,-13,-17,-46,-32,16
+1838407,ZA,South Africa,,,,,,2020-08-12,-28,-13,-16,-47,-32,17
+1838408,ZA,South Africa,,,,,,2020-08-13,-26,-11,-12,-47,-32,16
+1838409,ZA,South Africa,,,,,,2020-08-14,-21,-4,-13,-44,-31,15
+1838410,ZA,South Africa,,,,,,2020-08-15,-23,-5,-24,-43,-6,11
+1838411,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-15,-8,-5,-10,-10,-1,-3
+1838412,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-16,-6,-3,-2,-8,-1,-3
+1838413,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-17,-15,-10,-12,-5,1,2
+1838414,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-18,-19,-14,-20,-7,2,3
+1838415,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-19,-12,-12,-9,-8,4,1
+1838416,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-20,-2,-2,-11,0,3,0
+1838417,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-21,-8,-6,-5,2,3,-3
+1838418,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-22,-13,-10,-21,-12,2,-1
+1838419,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-23,-13,-11,-16,-10,-1,1
+1838420,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-24,-13,-11,-13,-9,5,1
+1838421,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-25,-3,0,-14,-4,5,-1
+1838422,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-26,-4,-2,-10,-5,4,1
+1838423,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-27,4,3,-13,5,4,2
+1838424,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-28,9,9,-12,13,4,-2
+1838425,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-02-29,11,10,-17,2,9,-2
+1838426,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-01,18,18,-5,3,12,-2
+1838427,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-02,3,7,-9,3,7,0
+1838428,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-03,0,5,-10,7,9,-1
+1838429,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-04,2,4,-3,3,8,1
+1838430,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-05,5,9,-4,3,7,1
+1838431,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-06,-1,3,-5,6,7,-1
+1838432,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-07,-5,0,-9,-8,7,0
+1838433,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-08,-7,-3,-11,-7,4,1
+1838434,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-09,-14,-8,-13,-5,5,2
+1838435,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-10,-14,-9,-15,-7,4,0
+1838436,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-11,-10,-8,-8,-8,2,-1
+1838437,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-12,-6,-5,-7,-4,2,-1
+1838438,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-13,-2,1,-4,3,3,-4
+1838439,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-14,-7,-2,-13,-13,4,-1
+1838440,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-15,-13,-7,-23,-13,1,2
+1838441,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-16,-14,-1,-20,-13,2,4
+1838442,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-17,-15,-5,-17,-10,0,3
+1838443,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-18,-13,-5,-9,-10,-4,5
+1838444,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-19,-11,-2,-4,-14,-11,7
+1838445,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-20,-12,0,-7,-9,-13,6
+1838446,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-21,-25,-6,-9,-19,-15,5
+1838447,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-22,-27,-10,-9,-30,-8,4
+1838448,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-23,-21,-2,-5,-32,-18,8
+1838449,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-24,-8,15,-11,-18,-17,6
+1838450,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-25,12,27,-1,-7,-19,4
+1838451,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-26,17,46,-1,-35,-27,4
+1838452,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-27,-82,-59,-22,-79,-71,36
+1838453,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-28,-83,-59,-37,-78,-54,24
+1838454,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-29,-82,-62,-35,-80,-45,20
+1838455,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-30,-74,-49,-19,-78,-69,31
+1838456,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-03-31,-71,-44,-18,-76,-68,29
+1838457,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-01,-70,-42,-12,-75,-68,31
+1838458,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-02,-69,-37,-12,-76,-68,32
+1838459,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-03,-73,-41,-19,-76,-67,33
+1838460,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-04,-79,-49,-35,-77,-50,22
+1838461,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-05,-78,-54,-32,-80,-41,19
+1838462,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-06,-74,-46,-17,-78,-69,32
+1838463,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-07,-75,-46,-21,-78,-70,32
+1838464,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-08,-74,-44,-13,-79,-69,32
+1838465,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-09,-70,-33,-16,-78,-69,31
+1838466,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-10,-85,-64,-26,-84,-83,40
+1838467,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-11,-80,-49,-39,-79,-53,24
+1838468,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-12,-82,-59,-37,-82,-43,20
+1838469,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-13,-83,-61,-23,-86,-83,38
+1838470,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-14,-74,-45,-22,-78,-68,31
+1838471,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-15,-70,-38,-17,-76,-68,31
+1838472,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-16,-71,-37,-14,-75,-67,32
+1838473,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-17,-74,-41,-22,-76,-66,33
+1838474,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-18,-79,-49,-40,-76,-48,22
+1838475,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-19,-80,-55,-37,-79,-38,18
+1838476,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-20,-71,-42,-21,-73,-65,30
+1838477,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-21,-73,-44,-22,-73,-65,29
+1838478,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-22,-74,-45,-20,-73,-65,31
+1838479,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-23,-72,-42,-19,-74,-65,31
+1838480,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-24,-72,-38,-25,-72,-64,32
+1838481,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-25,-73,-38,-39,-71,-43,20
+1838482,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-26,-76,-46,-36,-80,-36,18
+1838483,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-27,-80,-54,-23,-82,-80,36
+1838484,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-28,-70,-37,-23,-72,-63,27
+1838485,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-29,-69,-37,-18,-71,-62,29
+1838486,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-04-30,-60,-23,-14,-67,-60,27
+1838487,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-01,-64,-33,-19,-73,-72,32
+1838488,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-02,-57,-21,-34,-56,-28,17
+1838489,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-03,-62,-33,-31,-68,-22,15
+1838490,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-04,-48,-21,-11,-55,-47,21
+1838491,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-05,-51,-23,-15,-53,-48,21
+1838492,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-06,-47,-19,-11,-51,-47,22
+1838493,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-07,-43,-14,-10,-55,-47,22
+1838494,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-08,-54,-24,-20,-62,-46,24
+1838495,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-09,-55,-22,-35,-62,-22,16
+1838496,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-10,-61,-30,-31,-73,-17,13
+1838497,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-11,-51,-29,-16,-64,-45,22
+1838498,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-12,-52,-29,-17,-62,-45,21
+1838499,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-13,-54,-31,-13,-63,-45,23
+1838500,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-14,-50,-27,-12,-63,-44,22
+1838501,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-15,-51,-24,-18,-62,-43,22
+1838502,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-16,-54,-24,-33,-62,-19,15
+1838503,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-17,-60,-34,-29,-74,-16,14
+1838504,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-18,-49,-28,-13,-63,-42,20
+1838505,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-19,-51,-30,-17,-63,-43,20
+1838506,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-20,-45,-22,-13,-60,-42,21
+1838507,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-21,-45,-21,-12,-61,-43,22
+1838508,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-22,-51,-24,-20,-65,-41,22
+1838509,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-23,-53,-22,-34,-64,-18,14
+1838510,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-24,-57,-30,-29,-74,-13,13
+1838511,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-25,-43,-21,-16,-66,-41,20
+1838512,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-26,-50,-27,-22,-66,-42,21
+1838513,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-27,-43,-21,-15,-62,-40,21
+1838514,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-28,-38,-14,-14,-63,-38,20
+1838515,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-29,-43,-15,-21,-61,-38,21
+1838516,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-30,-43,-12,-32,-55,-10,12
+1838517,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-05-31,-46,-17,-25,-69,-3,10
+1838518,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-01,-26,-4,-9,-55,-31,14
+1838519,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-02,-32,-11,-11,-57,-32,15
+1838520,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-03,-32,-11,-8,-56,-31,16
+1838521,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-04,-28,-5,-5,-57,-31,16
+1838522,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-05,-37,-13,-12,-55,-31,16
+1838523,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-06,-40,-12,-23,-55,-7,10
+1838524,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-07,-45,-19,-15,-68,-2,8
+1838525,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-08,-31,-11,-9,-56,-29,14
+1838526,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-09,-35,-13,-9,-54,-28,14
+1838527,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-10,-34,-14,-6,-56,-29,16
+1838528,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-11,-31,-11,-12,-60,-30,18
+1838529,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-12,-41,-21,-17,-61,-31,19
+1838530,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-13,-43,-21,-26,-59,-8,12
+1838531,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-14,-48,-29,-16,-70,-4,11
+1838532,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-15,-23,-9,-8,-58,-36,16
+1838533,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-16,-48,-27,0,-69,-67,25
+1838534,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-17,-29,-13,-7,-58,-31,16
+1838535,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-18,-27,-11,-6,-59,-32,16
+1838536,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-19,-32,-14,-10,-58,-32,16
+1838537,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-20,-36,-12,-21,-59,-7,10
+1838538,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-21,-45,-22,-17,-70,-3,9
+1838539,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-22,-33,-19,-11,-60,-33,16
+1838540,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-23,-35,-19,-9,-60,-33,16
+1838541,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-24,-32,-17,-7,-60,-32,17
+1838542,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-25,-18,1,-8,-56,-32,16
+1838543,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-26,-28,-8,-13,-57,-33,16
+1838544,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-27,-31,-9,-25,-58,-8,10
+1838545,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-28,-41,-19,-29,-70,-9,11
+1838546,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-29,-27,-13,-16,-57,-32,15
+1838547,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-06-30,-20,-3,-11,-53,-31,13
+1838548,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-01,-19,-3,-3,-50,-30,14
+1838549,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-02,-17,2,-5,-51,-31,16
+1838550,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-03,-27,-9,-8,-53,-31,16
+1838551,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-04,-32,-10,-19,-55,-7,10
+1838552,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-05,-36,-16,-14,-66,-2,9
+1838553,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-06,-22,-8,-7,-51,-31,14
+1838554,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-07,-27,-10,-14,-55,-33,15
+1838555,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-08,-27,-12,-8,-55,-31,15
+1838556,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-09,-25,-8,-10,-52,-33,16
+1838557,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-10,-35,-18,-13,-54,-33,15
+1838558,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-11,-44,-24,-33,-61,-15,13
+1838559,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-12,-42,-27,-18,-66,-9,9
+1838560,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-13,-36,-22,-18,-57,-33,15
+1838561,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-14,-43,-29,-23,-61,-36,17
+1838562,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-15,-26,-12,-11,-53,-32,15
+1838563,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-16,-25,-9,-9,-55,-31,15
+1838564,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-17,-32,-15,-10,-56,-31,16
+1838565,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-18,-38,-17,-21,-55,-10,12
+1838566,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-19,-41,-24,-15,-65,-10,10
+1838567,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-20,-28,-14,-16,-54,-30,15
+1838568,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-21,-32,-16,-13,-54,-31,14
+1838569,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-22,-30,-17,-10,-56,-29,15
+1838570,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-23,-27,-12,-6,-55,-29,16
+1838571,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-24,-26,-9,-7,-49,-28,14
+1838572,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-25,-25,-5,-14,-49,-8,9
+1838573,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-26,-33,-15,-24,-63,-9,10
+1838574,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-27,-23,-10,-11,-49,-33,15
+1838575,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-28,-24,-11,-10,-50,-33,15
+1838576,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-29,-24,-12,-7,-52,-33,16
+1838577,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-30,-21,-7,-8,-50,-33,16
+1838578,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-07-31,-19,-3,-7,-40,-31,14
+1838579,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-01,-21,-1,-13,-45,-5,7
+1838580,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-02,-22,-7,2,-55,-4,7
+1838581,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-03,-20,-7,-5,-46,-28,13
+1838582,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-04,-22,-7,-13,-47,-29,14
+1838583,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-05,-20,-6,-9,-48,-29,15
+1838584,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-06,-19,-4,-8,-45,-30,15
+1838585,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-07,-22,-7,2,-42,-28,12
+1838586,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-08,-26,-8,-2,-46,-6,6
+1838587,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-09,-29,-17,3,-57,-8,7
+1838588,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-10,-41,-27,9,-61,-70,23
+1838589,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-11,-23,-11,-1,-47,-27,11
+1838590,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-12,-22,-12,3,-45,-26,13
+1838591,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-13,-23,-11,0,-48,-27,13
+1838592,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-14,-19,-5,2,-41,-25,10
+1838593,ZA,South Africa,Eastern Cape,,,ZA-EC,,2020-08-15,-27,-9,-16,-46,-5,9
+1838594,ZA,South Africa,Free State,,,ZA-FS,,2020-02-15,4,3,3,-8,-1,-1
+1838595,ZA,South Africa,Free State,,,ZA-FS,,2020-02-16,-1,0,-3,-7,-3,-1
+1838596,ZA,South Africa,Free State,,,ZA-FS,,2020-02-17,-11,-10,-10,2,7,1
+1838597,ZA,South Africa,Free State,,,ZA-FS,,2020-02-18,-11,-13,-6,3,5,3
+1838598,ZA,South Africa,Free State,,,ZA-FS,,2020-02-19,-10,-13,-9,-1,4,2
+1838599,ZA,South Africa,Free State,,,ZA-FS,,2020-02-20,-7,-9,-6,-1,3,1
+1838600,ZA,South Africa,Free State,,,ZA-FS,,2020-02-21,-2,-5,10,2,2,-2
+1838601,ZA,South Africa,Free State,,,ZA-FS,,2020-02-22,-5,-5,12,0,-2,1
+1838602,ZA,South Africa,Free State,,,ZA-FS,,2020-02-23,-10,-5,-9,-13,-2,1
+1838603,ZA,South Africa,Free State,,,ZA-FS,,2020-02-24,-14,-11,-13,-5,6,1
+1838604,ZA,South Africa,Free State,,,ZA-FS,,2020-02-25,-1,-2,-3,4,7,0
+1838605,ZA,South Africa,Free State,,,ZA-FS,,2020-02-26,-1,-4,-4,-3,7,0
+1838606,ZA,South Africa,Free State,,,ZA-FS,,2020-02-27,0,-1,1,-2,6,1
+1838607,ZA,South Africa,Free State,,,ZA-FS,,2020-02-28,18,15,6,10,6,-2
+1838608,ZA,South Africa,Free State,,,ZA-FS,,2020-02-29,19,19,5,-2,5,-1
+1838609,ZA,South Africa,Free State,,,ZA-FS,,2020-03-01,19,22,2,2,6,-1
+1838610,ZA,South Africa,Free State,,,ZA-FS,,2020-03-02,5,10,0,5,11,0
+1838611,ZA,South Africa,Free State,,,ZA-FS,,2020-03-03,8,8,6,9,13,-1
+1838612,ZA,South Africa,Free State,,,ZA-FS,,2020-03-04,8,5,5,2,11,1
+1838613,ZA,South Africa,Free State,,,ZA-FS,,2020-03-05,4,6,7,5,10,0
+1838614,ZA,South Africa,Free State,,,ZA-FS,,2020-03-06,7,6,6,-2,8,0
+1838615,ZA,South Africa,Free State,,,ZA-FS,,2020-03-07,8,8,15,-3,5,-1
+1838616,ZA,South Africa,Free State,,,ZA-FS,,2020-03-08,-1,3,3,-13,3,1
+1838617,ZA,South Africa,Free State,,,ZA-FS,,2020-03-09,-11,-7,-10,0,9,1
+1838618,ZA,South Africa,Free State,,,ZA-FS,,2020-03-10,-8,-7,-5,1,9,0
+1838619,ZA,South Africa,Free State,,,ZA-FS,,2020-03-11,-9,-9,-10,-4,5,0
+1838620,ZA,South Africa,Free State,,,ZA-FS,,2020-03-12,-9,-9,-5,-8,4,-1
+1838621,ZA,South Africa,Free State,,,ZA-FS,,2020-03-13,3,-1,-2,-3,2,-3
+1838622,ZA,South Africa,Free State,,,ZA-FS,,2020-03-14,3,3,3,-12,5,-2
+1838623,ZA,South Africa,Free State,,,ZA-FS,,2020-03-15,-5,-2,-4,-16,2,1
+1838624,ZA,South Africa,Free State,,,ZA-FS,,2020-03-16,-9,1,-10,-10,6,2
+1838625,ZA,South Africa,Free State,,,ZA-FS,,2020-03-17,-9,-3,-4,-8,3,4
+1838626,ZA,South Africa,Free State,,,ZA-FS,,2020-03-18,-7,-4,-2,-13,-3,5
+1838627,ZA,South Africa,Free State,,,ZA-FS,,2020-03-19,-13,-6,1,-17,-13,7
+1838628,ZA,South Africa,Free State,,,ZA-FS,,2020-03-20,-11,1,-3,-12,-15,7
+1838629,ZA,South Africa,Free State,,,ZA-FS,,2020-03-21,-25,-6,-5,-21,-18,6
+1838630,ZA,South Africa,Free State,,,ZA-FS,,2020-03-22,-31,-12,-13,-29,-10,6
+1838631,ZA,South Africa,Free State,,,ZA-FS,,2020-03-23,-21,-1,-17,-21,-19,9
+1838632,ZA,South Africa,Free State,,,ZA-FS,,2020-03-24,-5,22,-6,-17,-18,7
+1838633,ZA,South Africa,Free State,,,ZA-FS,,2020-03-25,9,32,0,-10,-21,6
+1838634,ZA,South Africa,Free State,,,ZA-FS,,2020-03-26,11,58,6,-7,-26,3
+1838635,ZA,South Africa,Free State,,,ZA-FS,,2020-03-27,-81,-63,-52,-67,-67,37
+1838636,ZA,South Africa,Free State,,,ZA-FS,,2020-03-28,-80,-59,-55,-63,-48,24
+1838637,ZA,South Africa,Free State,,,ZA-FS,,2020-03-29,-78,-60,-47,-71,-37,20
+1838638,ZA,South Africa,Free State,,,ZA-FS,,2020-03-30,-75,-49,-43,-63,-66,32
+1838639,ZA,South Africa,Free State,,,ZA-FS,,2020-03-31,-71,-43,-40,-55,-65,30
+1838640,ZA,South Africa,Free State,,,ZA-FS,,2020-04-01,-69,-39,-35,-59,-64,29
+1838641,ZA,South Africa,Free State,,,ZA-FS,,2020-04-02,-70,-39,-38,-61,-65,31
+1838642,ZA,South Africa,Free State,,,ZA-FS,,2020-04-03,-73,-44,-47,-65,-65,35
+1838643,ZA,South Africa,Free State,,,ZA-FS,,2020-04-04,-77,-49,-49,-59,-44,22
+1838644,ZA,South Africa,Free State,,,ZA-FS,,2020-04-05,-76,-50,-44,-65,-31,18
+1838645,ZA,South Africa,Free State,,,ZA-FS,,2020-04-06,-73,-44,-45,-61,-65,32
+1838646,ZA,South Africa,Free State,,,ZA-FS,,2020-04-07,-73,-42,-40,-57,-65,31
+1838647,ZA,South Africa,Free State,,,ZA-FS,,2020-04-08,-74,-44,-40,-60,-66,32
+1838648,ZA,South Africa,Free State,,,ZA-FS,,2020-04-09,-71,-33,-38,-65,-66,31
+1838649,ZA,South Africa,Free State,,,ZA-FS,,2020-04-10,-87,-69,-53,-79,-81,42
+1838650,ZA,South Africa,Free State,,,ZA-FS,,2020-04-11,-77,-44,-52,-69,-47,23
+1838651,ZA,South Africa,Free State,,,ZA-FS,,2020-04-12,-77,-53,-47,-76,-35,19
+1838652,ZA,South Africa,Free State,,,ZA-FS,,2020-04-13,-83,-62,-50,-72,-80,38
+1838653,ZA,South Africa,Free State,,,ZA-FS,,2020-04-14,-73,-44,-45,-62,-64,31
+1838654,ZA,South Africa,Free State,,,ZA-FS,,2020-04-15,-67,-32,-41,-55,-63,31
+1838655,ZA,South Africa,Free State,,,ZA-FS,,2020-04-16,-69,-33,-41,-58,-62,30
+1838656,ZA,South Africa,Free State,,,ZA-FS,,2020-04-17,-71,-35,-47,-58,-61,33
+1838657,ZA,South Africa,Free State,,,ZA-FS,,2020-04-18,-75,-44,-53,-50,-40,22
+1838658,ZA,South Africa,Free State,,,ZA-FS,,2020-04-19,-77,-49,-50,-64,-29,18
+1838659,ZA,South Africa,Free State,,,ZA-FS,,2020-04-20,-69,-39,-46,-57,-60,29
+1838660,ZA,South Africa,Free State,,,ZA-FS,,2020-04-21,-70,-41,-44,-52,-60,29
+1838661,ZA,South Africa,Free State,,,ZA-FS,,2020-04-22,-72,-42,-46,-58,-60,30
+1838662,ZA,South Africa,Free State,,,ZA-FS,,2020-04-23,-71,-41,-44,-59,-60,30
+1838663,ZA,South Africa,Free State,,,ZA-FS,,2020-04-24,-68,-34,-50,-60,-59,31
+1838664,ZA,South Africa,Free State,,,ZA-FS,,2020-04-25,-69,-32,-50,-54,-36,19
+1838665,ZA,South Africa,Free State,,,ZA-FS,,2020-04-26,-72,-39,-48,-69,-29,17
+1838666,ZA,South Africa,Free State,,,ZA-FS,,2020-04-27,-79,-55,-53,-70,-77,37
+1838667,ZA,South Africa,Free State,,,ZA-FS,,2020-04-28,-64,-30,-42,-56,-57,26
+1838668,ZA,South Africa,Free State,,,ZA-FS,,2020-04-29,-65,-31,-42,-54,-56,28
+1838669,ZA,South Africa,Free State,,,ZA-FS,,2020-04-30,-60,-20,-33,-53,-55,25
+1838670,ZA,South Africa,Free State,,,ZA-FS,,2020-05-01,-61,-32,-41,-61,-68,31
+1838671,ZA,South Africa,Free State,,,ZA-FS,,2020-05-02,-50,-14,-34,-42,-22,15
+1838672,ZA,South Africa,Free State,,,ZA-FS,,2020-05-03,-55,-23,-35,-50,-13,14
+1838673,ZA,South Africa,Free State,,,ZA-FS,,2020-05-04,-42,-13,-20,-40,-41,19
+1838674,ZA,South Africa,Free State,,,ZA-FS,,2020-05-05,-43,-16,-14,-31,-42,20
+1838675,ZA,South Africa,Free State,,,ZA-FS,,2020-05-06,-42,-14,-14,-31,-41,21
+1838676,ZA,South Africa,Free State,,,ZA-FS,,2020-05-07,-43,-13,-15,-32,-41,20
+1838677,ZA,South Africa,Free State,,,ZA-FS,,2020-05-08,-49,-18,-37,-46,-40,23
+1838678,ZA,South Africa,Free State,,,ZA-FS,,2020-05-09,-50,-13,-37,-38,-16,15
+1838679,ZA,South Africa,Free State,,,ZA-FS,,2020-05-10,-55,-20,-37,-53,-11,13
+1838680,ZA,South Africa,Free State,,,ZA-FS,,2020-05-11,-48,-24,-33,-46,-39,22
+1838681,ZA,South Africa,Free State,,,ZA-FS,,2020-05-12,-47,-23,-30,-36,-39,21
+1838682,ZA,South Africa,Free State,,,ZA-FS,,2020-05-13,-49,-26,-31,-38,-39,22
+1838683,ZA,South Africa,Free State,,,ZA-FS,,2020-05-14,-50,-26,-28,-45,-40,21
+1838684,ZA,South Africa,Free State,,,ZA-FS,,2020-05-15,-46,-18,-31,-40,-38,22
+1838685,ZA,South Africa,Free State,,,ZA-FS,,2020-05-16,-48,-15,-32,-33,-14,14
+1838686,ZA,South Africa,Free State,,,ZA-FS,,2020-05-17,-57,-27,-36,-52,-11,13
+1838687,ZA,South Africa,Free State,,,ZA-FS,,2020-05-18,-44,-23,-30,-42,-38,21
+1838688,ZA,South Africa,Free State,,,ZA-FS,,2020-05-19,-46,-26,-26,-34,-37,20
+1838689,ZA,South Africa,Free State,,,ZA-FS,,2020-05-20,-42,-20,-26,-38,-37,21
+1838690,ZA,South Africa,Free State,,,ZA-FS,,2020-05-21,-45,-21,-26,-47,-39,21
+1838691,ZA,South Africa,Free State,,,ZA-FS,,2020-05-22,-47,-21,-35,-45,-36,22
+1838692,ZA,South Africa,Free State,,,ZA-FS,,2020-05-23,-49,-16,-34,-36,-13,13
+1838693,ZA,South Africa,Free State,,,ZA-FS,,2020-05-24,-56,-25,-38,-57,-8,13
+1838694,ZA,South Africa,Free State,,,ZA-FS,,2020-05-25,-42,-18,-31,-43,-36,20
+1838695,ZA,South Africa,Free State,,,ZA-FS,,2020-05-26,-41,-20,-31,-37,-34,19
+1838696,ZA,South Africa,Free State,,,ZA-FS,,2020-05-27,-39,-18,-29,-37,-34,20
+1838697,ZA,South Africa,Free State,,,ZA-FS,,2020-05-28,-39,-15,-25,-46,-32,19
+1838698,ZA,South Africa,Free State,,,ZA-FS,,2020-05-29,-37,-9,-27,-37,-29,19
+1838699,ZA,South Africa,Free State,,,ZA-FS,,2020-05-30,-37,-3,-25,-26,-3,11
+1838700,ZA,South Africa,Free State,,,ZA-FS,,2020-05-31,-42,-8,-29,-49,4,10
+1838701,ZA,South Africa,Free State,,,ZA-FS,,2020-06-01,-21,3,-17,-34,-22,14
+1838702,ZA,South Africa,Free State,,,ZA-FS,,2020-06-02,-25,-5,-14,-21,-22,14
+1838703,ZA,South Africa,Free State,,,ZA-FS,,2020-06-03,-25,-4,-17,-28,-23,16
+1838704,ZA,South Africa,Free State,,,ZA-FS,,2020-06-04,-25,0,-13,-36,-24,15
+1838705,ZA,South Africa,Free State,,,ZA-FS,,2020-06-05,-29,-6,-18,-25,-23,16
+1838706,ZA,South Africa,Free State,,,ZA-FS,,2020-06-06,-32,-5,-17,-22,-3,10
+1838707,ZA,South Africa,Free State,,,ZA-FS,,2020-06-07,-40,-12,-25,-42,3,10
+1838708,ZA,South Africa,Free State,,,ZA-FS,,2020-06-08,-29,-7,-20,-32,-21,14
+1838709,ZA,South Africa,Free State,,,ZA-FS,,2020-06-09,-30,-10,-16,-19,-20,14
+1838710,ZA,South Africa,Free State,,,ZA-FS,,2020-06-10,-30,-10,-17,-29,-21,16
+1838711,ZA,South Africa,Free State,,,ZA-FS,,2020-06-11,-30,-9,-22,-38,-23,16
+1838712,ZA,South Africa,Free State,,,ZA-FS,,2020-06-12,-34,-15,-26,-33,-23,17
+1838713,ZA,South Africa,Free State,,,ZA-FS,,2020-06-13,-37,-14,-25,-21,-5,12
+1838714,ZA,South Africa,Free State,,,ZA-FS,,2020-06-14,-46,-23,-28,-46,1,11
+1838715,ZA,South Africa,Free State,,,ZA-FS,,2020-06-15,-17,-1,-13,-39,-26,14
+1838716,ZA,South Africa,Free State,,,ZA-FS,,2020-06-16,-47,-30,-27,-47,-64,27
+1838717,ZA,South Africa,Free State,,,ZA-FS,,2020-06-17,-26,-8,-19,-36,-22,16
+1838718,ZA,South Africa,Free State,,,ZA-FS,,2020-06-18,-27,-9,-15,-38,-24,15
+1838719,ZA,South Africa,Free State,,,ZA-FS,,2020-06-19,-27,-10,-22,-35,-23,15
+1838720,ZA,South Africa,Free State,,,ZA-FS,,2020-06-20,-29,-6,-23,-22,-3,10
+1838721,ZA,South Africa,Free State,,,ZA-FS,,2020-06-21,-40,-18,-27,-47,1,9
+1838722,ZA,South Africa,Free State,,,ZA-FS,,2020-06-22,-30,-17,-21,-43,-23,15
+1838723,ZA,South Africa,Free State,,,ZA-FS,,2020-06-23,-29,-15,-15,-30,-23,15
+1838724,ZA,South Africa,Free State,,,ZA-FS,,2020-06-24,-29,-14,-19,-35,-22,15
+1838725,ZA,South Africa,Free State,,,ZA-FS,,2020-06-25,-20,1,-9,-36,-22,13
+1838726,ZA,South Africa,Free State,,,ZA-FS,,2020-06-26,-21,-3,-15,-36,-23,14
+1838727,ZA,South Africa,Free State,,,ZA-FS,,2020-06-27,-23,0,-12,-31,-6,9
+1838728,ZA,South Africa,Free State,,,ZA-FS,,2020-06-28,-33,-10,-24,-51,-2,9
+1838729,ZA,South Africa,Free State,,,ZA-FS,,2020-06-29,-24,-8,-18,-37,-21,14
+1838730,ZA,South Africa,Free State,,,ZA-FS,,2020-06-30,-13,2,-6,-18,-19,12
+1838731,ZA,South Africa,Free State,,,ZA-FS,,2020-07-01,-13,2,-5,-25,-19,13
+1838732,ZA,South Africa,Free State,,,ZA-FS,,2020-07-02,-13,7,-1,-35,-20,13
+1838733,ZA,South Africa,Free State,,,ZA-FS,,2020-07-03,-18,0,-10,-29,-21,13
+1838734,ZA,South Africa,Free State,,,ZA-FS,,2020-07-04,-21,1,-9,-18,0,9
+1838735,ZA,South Africa,Free State,,,ZA-FS,,2020-07-05,-27,-7,-15,-41,4,8
+1838736,ZA,South Africa,Free State,,,ZA-FS,,2020-07-06,-18,-1,-10,-31,-21,13
+1838737,ZA,South Africa,Free State,,,ZA-FS,,2020-07-07,-17,1,-4,-27,-21,13
+1838738,ZA,South Africa,Free State,,,ZA-FS,,2020-07-08,-23,-6,-15,-30,-21,15
+1838739,ZA,South Africa,Free State,,,ZA-FS,,2020-07-09,-25,-3,-17,-35,-23,15
+1838740,ZA,South Africa,Free State,,,ZA-FS,,2020-07-10,-28,-8,-21,-34,-24,15
+1838741,ZA,South Africa,Free State,,,ZA-FS,,2020-07-11,-39,-16,-29,-32,-11,13
+1838742,ZA,South Africa,Free State,,,ZA-FS,,2020-07-12,-42,-22,-27,-42,-5,10
+1838743,ZA,South Africa,Free State,,,ZA-FS,,2020-07-13,-31,-14,-24,-36,-25,15
+1838744,ZA,South Africa,Free State,,,ZA-FS,,2020-07-14,-35,-20,-27,-29,-27,17
+1838745,ZA,South Africa,Free State,,,ZA-FS,,2020-07-15,-23,-9,-18,-29,-25,16
+1838746,ZA,South Africa,Free State,,,ZA-FS,,2020-07-16,-26,-8,-18,-38,-26,16
+1838747,ZA,South Africa,Free State,,,ZA-FS,,2020-07-17,-28,-10,-24,-35,-26,18
+1838748,ZA,South Africa,Free State,,,ZA-FS,,2020-07-18,-33,-10,-25,-31,-8,13
+1838749,ZA,South Africa,Free State,,,ZA-FS,,2020-07-19,-40,-19,-28,-48,-6,12
+1838750,ZA,South Africa,Free State,,,ZA-FS,,2020-07-20,-27,-10,-22,-39,-26,17
+1838751,ZA,South Africa,Free State,,,ZA-FS,,2020-07-21,-29,-14,-21,-30,-27,16
+1838752,ZA,South Africa,Free State,,,ZA-FS,,2020-07-22,-30,-14,-23,-38,-27,18
+1838753,ZA,South Africa,Free State,,,ZA-FS,,2020-07-23,-30,-12,-18,-40,-28,17
+1838754,ZA,South Africa,Free State,,,ZA-FS,,2020-07-24,-25,-6,-21,-37,-27,17
+1838755,ZA,South Africa,Free State,,,ZA-FS,,2020-07-25,-23,3,-17,-24,-7,11
+1838756,ZA,South Africa,Free State,,,ZA-FS,,2020-07-26,-31,-7,-22,-46,-6,11
+1838757,ZA,South Africa,Free State,,,ZA-FS,,2020-07-27,-23,-4,-18,-38,-32,17
+1838758,ZA,South Africa,Free State,,,ZA-FS,,2020-07-28,-22,-5,-14,-29,-32,17
+1838759,ZA,South Africa,Free State,,,ZA-FS,,2020-07-29,-22,-6,-14,-28,-33,18
+1838760,ZA,South Africa,Free State,,,ZA-FS,,2020-07-30,-23,-5,-12,-39,-33,17
+1838761,ZA,South Africa,Free State,,,ZA-FS,,2020-07-31,-16,5,-10,-31,-32,16
+1838762,ZA,South Africa,Free State,,,ZA-FS,,2020-08-01,-17,12,-9,-19,-5,9
+1838763,ZA,South Africa,Free State,,,ZA-FS,,2020-08-02,-21,4,-14,-40,-3,9
+1838764,ZA,South Africa,Free State,,,ZA-FS,,2020-08-03,-17,2,-14,-31,-27,15
+1838765,ZA,South Africa,Free State,,,ZA-FS,,2020-08-04,-14,4,-4,-21,-26,15
+1838766,ZA,South Africa,Free State,,,ZA-FS,,2020-08-05,-14,4,-8,-24,-27,16
+1838767,ZA,South Africa,Free State,,,ZA-FS,,2020-08-06,-16,3,-8,-31,-28,15
+1838768,ZA,South Africa,Free State,,,ZA-FS,,2020-08-07,-18,0,-8,-26,-28,14
+1838769,ZA,South Africa,Free State,,,ZA-FS,,2020-08-08,-23,1,-3,-22,-7,9
+1838770,ZA,South Africa,Free State,,,ZA-FS,,2020-08-09,-29,-9,-3,-46,-5,9
+1838771,ZA,South Africa,Free State,,,ZA-FS,,2020-08-10,-42,-27,-16,-51,-68,25
+1838772,ZA,South Africa,Free State,,,ZA-FS,,2020-08-11,-20,-5,-6,-28,-23,13
+1838773,ZA,South Africa,Free State,,,ZA-FS,,2020-08-12,-23,-9,-14,-27,-23,15
+1838774,ZA,South Africa,Free State,,,ZA-FS,,2020-08-13,-23,-8,-9,-36,-25,13
+1838775,ZA,South Africa,Free State,,,ZA-FS,,2020-08-14,-17,1,-9,-28,-24,12
+1838776,ZA,South Africa,Free State,,,ZA-FS,,2020-08-15,-21,2,-9,-20,-2,9
+1838777,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-15,8,0,25,1,2,-3
+1838778,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-16,2,-1,10,-6,0,0
+1838779,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-17,-8,-8,0,3,5,1
+1838780,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-18,-10,-12,1,1,5,1
+1838781,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-19,-11,-12,-5,-1,4,1
+1838782,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-20,-2,-5,1,2,4,-1
+1838783,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-21,-1,-7,0,5,4,-2
+1838784,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-22,-1,-7,-6,-5,2,-1
+1838785,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-23,-4,-5,-7,-10,-1,4
+1838786,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-24,-9,-11,-4,-1,5,1
+1838787,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-25,2,-2,0,4,5,-1
+1838788,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-26,2,0,1,7,5,-1
+1838789,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-27,10,7,5,9,5,-1
+1838790,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-28,14,9,14,21,4,-2
+1838791,ZA,South Africa,Gauteng,,,ZA-GT,,2020-02-29,24,15,5,13,4,-4
+1838792,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-01,23,20,7,11,6,0
+1838793,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-02,5,6,-8,11,6,2
+1838794,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-03,5,4,7,14,9,-1
+1838795,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-04,4,5,5,11,8,0
+1838796,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-05,7,8,5,11,8,0
+1838797,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-06,10,9,14,16,8,-2
+1838798,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-07,12,8,17,8,7,-2
+1838799,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-08,5,4,8,-3,4,2
+1838800,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-09,-5,-4,-2,2,7,1
+1838801,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-10,-6,-8,2,3,6,-1
+1838802,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-11,-7,-8,-3,-2,4,-1
+1838803,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-12,-2,-4,-1,-4,4,-2
+1838804,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-13,3,0,3,0,3,-3
+1838805,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-14,5,2,12,-6,4,-2
+1838806,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-15,0,1,3,-13,2,3
+1838807,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-16,-6,7,-13,-13,1,4
+1838808,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-17,-13,-4,-18,-16,-4,6
+1838809,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-18,-15,-5,-18,-20,-11,9
+1838810,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-19,-14,-4,-16,-24,-15,11
+1838811,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-20,-12,2,-14,-23,-17,10
+1838812,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-21,-22,-6,-23,-28,-17,8
+1838813,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-22,-29,-12,-34,-40,-12,10
+1838814,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-23,-19,-3,-26,-39,-24,13
+1838815,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-24,-5,21,-19,-32,-24,11
+1838816,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-25,11,38,-15,-24,-28,9
+1838817,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-26,21,68,-8,-30,-36,8
+1838818,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-27,-80,-61,-64,-82,-79,44
+1838819,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-28,-79,-60,-68,-80,-60,28
+1838820,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-29,-78,-60,-64,-81,-51,26
+1838821,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-30,-72,-50,-61,-81,-78,41
+1838822,ZA,South Africa,Gauteng,,,ZA-GT,,2020-03-31,-72,-48,-59,-80,-78,38
+1838823,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-01,-70,-43,-59,-79,-77,39
+1838824,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-02,-70,-42,-59,-80,-77,40
+1838825,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-03,-72,-43,-59,-80,-77,42
+1838826,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-04,-77,-54,-66,-78,-58,27
+1838827,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-05,-74,-50,-61,-78,-46,24
+1838828,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-06,-71,-46,-57,-80,-77,40
+1838829,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-07,-72,-45,-57,-79,-77,39
+1838830,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-08,-73,-45,-60,-82,-77,40
+1838831,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-09,-68,-34,-58,-81,-78,40
+1838832,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-10,-81,-60,-62,-85,-87,48
+1838833,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-11,-74,-45,-65,-79,-58,27
+1838834,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-12,-76,-53,-64,-81,-48,26
+1838835,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-13,-80,-59,-63,-85,-87,46
+1838836,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-14,-73,-47,-62,-82,-76,39
+1838837,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-15,-69,-39,-59,-81,-76,40
+1838838,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-16,-69,-38,-59,-81,-75,40
+1838839,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-17,-71,-38,-59,-80,-75,42
+1838840,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-18,-75,-48,-65,-77,-55,27
+1838841,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-19,-77,-51,-64,-80,-45,25
+1838842,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-20,-71,-45,-58,-80,-73,39
+1838843,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-21,-73,-46,-60,-79,-73,39
+1838844,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-22,-73,-45,-61,-81,-73,40
+1838845,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-23,-72,-42,-60,-81,-73,40
+1838846,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-24,-68,-34,-57,-79,-72,40
+1838847,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-25,-68,-34,-59,-74,-51,24
+1838848,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-26,-70,-39,-61,-78,-43,24
+1838849,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-27,-74,-48,-61,-83,-85,44
+1838850,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-28,-68,-40,-58,-78,-71,36
+1838851,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-29,-67,-36,-57,-77,-71,38
+1838852,ZA,South Africa,Gauteng,,,ZA-GT,,2020-04-30,-61,-25,-52,-74,-69,35
+1838853,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-01,-59,-27,-48,-72,-79,38
+1838854,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-02,-51,-20,-51,-60,-38,20
+1838855,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-03,-55,-26,-50,-65,-28,20
+1838856,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-04,-46,-20,-43,-62,-56,29
+1838857,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-05,-50,-24,-44,-62,-57,29
+1838858,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-06,-48,-19,-44,-60,-56,30
+1838859,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-07,-47,-17,-43,-61,-56,30
+1838860,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-08,-51,-19,-44,-66,-55,32
+1838861,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-09,-48,-15,-49,-61,-30,19
+1838862,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-10,-53,-22,-49,-68,-22,20
+1838863,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-11,-50,-29,-46,-64,-54,31
+1838864,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-12,-52,-29,-44,-62,-54,29
+1838865,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-13,-52,-27,-47,-63,-54,30
+1838866,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-14,-51,-25,-46,-64,-54,29
+1838867,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-15,-50,-21,-44,-62,-53,30
+1838868,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-16,-49,-20,-50,-57,-27,18
+1838869,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-17,-55,-27,-51,-67,-22,20
+1838870,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-18,-49,-29,-48,-64,-52,29
+1838871,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-19,-52,-31,-47,-63,-52,29
+1838872,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-20,-49,-25,-46,-62,-52,29
+1838873,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-21,-47,-22,-45,-63,-52,30
+1838874,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-22,-49,-21,-44,-62,-50,30
+1838875,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-23,-45,-16,-47,-56,-24,17
+1838876,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-24,-50,-23,-49,-65,-19,19
+1838877,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-25,-44,-22,-46,-61,-50,28
+1838878,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-26,-44,-21,-44,-59,-48,27
+1838879,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-27,-43,-18,-46,-60,-48,28
+1838880,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-28,-40,-14,-44,-59,-48,27
+1838881,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-29,-41,-11,-42,-56,-46,27
+1838882,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-30,-37,-5,-43,-47,-15,15
+1838883,ZA,South Africa,Gauteng,,,ZA-GT,,2020-05-31,-40,-9,-43,-56,-8,16
+1838884,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-01,-23,-1,-31,-48,-39,22
+1838885,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-02,-31,-11,-33,-48,-40,23
+1838886,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-03,-31,-8,-35,-49,-40,24
+1838887,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-04,-27,-2,-32,-50,-40,23
+1838888,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-05,-32,-8,-37,-48,-39,24
+1838889,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-06,-31,-6,-36,-43,-12,13
+1838890,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-07,-37,-13,-35,-54,-8,15
+1838891,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-08,-31,-12,-39,-50,-38,22
+1838892,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-09,-34,-14,-37,-49,-38,22
+1838893,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-10,-35,-13,-37,-50,-38,23
+1838894,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-11,-30,-8,-38,-51,-39,23
+1838895,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-12,-37,-16,-42,-53,-39,24
+1838896,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-13,-36,-15,-40,-49,-11,14
+1838897,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-14,-42,-22,-36,-59,-7,16
+1838898,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-15,-26,-9,-35,-52,-44,23
+1838899,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-16,-49,-31,-47,-67,-75,35
+1838900,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-17,-37,-17,-43,-54,-40,23
+1838901,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-18,-32,-12,-39,-54,-41,23
+1838902,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-19,-33,-14,-36,-53,-40,24
+1838903,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-20,-29,-7,-32,-49,-9,13
+1838904,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-21,-38,-17,-30,-59,-3,15
+1838905,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-22,-36,-22,-36,-64,-45,24
+1838906,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-23,-35,-20,-33,-53,-41,22
+1838907,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-24,-35,-17,-35,-53,-40,23
+1838908,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-25,-21,2,-32,-50,-40,21
+1838909,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-26,-25,-2,-32,-48,-40,21
+1838910,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-27,-22,2,-26,-41,-10,11
+1838911,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-28,-29,-6,-24,-53,-5,14
+1838912,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-29,-25,-9,-30,-48,-39,22
+1838913,ZA,South Africa,Gauteng,,,ZA-GT,,2020-06-30,-23,-5,-28,-46,-39,20
+1838914,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-01,-23,-2,-28,-45,-39,21
+1838915,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-02,-18,6,-26,-46,-40,22
+1838916,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-03,-23,-1,-26,-44,-40,22
+1838917,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-04,-24,-2,-23,-40,-9,12
+1838918,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-05,-29,-9,-22,-50,-4,14
+1838919,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-06,-23,-5,-30,-47,-41,22
+1838920,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-07,-26,-7,-28,-45,-41,22
+1838921,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-08,-30,-9,-34,-50,-40,23
+1838922,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-09,-27,-4,-35,-51,-42,23
+1838923,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-10,-31,-11,-33,-51,-42,23
+1838924,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-11,-36,-16,-40,-51,-15,15
+1838925,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-12,-37,-19,-30,-57,-10,15
+1838926,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-13,-34,-18,-36,-54,-42,23
+1838927,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-14,-36,-22,-38,-55,-43,23
+1838928,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-15,-33,-14,-38,-54,-42,24
+1838929,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-16,-30,-11,-35,-54,-42,23
+1838930,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-17,-32,-11,-33,-53,-41,24
+1838931,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-18,-32,-11,-29,-50,-12,15
+1838932,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-19,-37,-17,-25,-58,-10,17
+1838933,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-20,-31,-15,-33,-54,-41,24
+1838934,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-21,-34,-19,-31,-54,-42,23
+1838935,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-22,-35,-16,-34,-54,-40,24
+1838936,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-23,-31,-13,-33,-54,-40,24
+1838937,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-24,-24,-4,-29,-51,-39,22
+1838938,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-25,-18,4,-18,-42,-10,12
+1838939,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-26,-24,-2,-15,-53,-7,14
+1838940,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-27,-25,-8,-30,-51,-43,23
+1838941,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-28,-27,-10,-30,-49,-42,22
+1838942,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-29,-26,-7,-29,-50,-42,23
+1838943,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-30,-23,-4,-28,-49,-43,22
+1838944,ZA,South Africa,Gauteng,,,ZA-GT,,2020-07-31,-19,3,-22,-45,-41,21
+1838945,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-01,-16,6,-9,-37,-10,10
+1838946,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-02,-19,2,-7,-46,-5,12
+1838947,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-03,-20,-3,-24,-45,-40,21
+1838948,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-04,-23,-5,-21,-44,-39,21
+1838949,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-05,-23,-3,-21,-44,-39,21
+1838950,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-06,-19,0,-22,-45,-40,21
+1838951,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-07,-24,-3,-23,-44,-40,21
+1838952,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-08,-22,-4,-14,-40,-11,11
+1838953,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-09,-26,-12,-1,-50,-8,13
+1838954,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-10,-32,-19,-1,-58,-76,30
+1838955,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-11,-29,-15,-24,-46,-38,19
+1838956,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-12,-29,-12,-24,-48,-38,21
+1838957,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-13,-25,-9,-22,-48,-38,20
+1838958,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-14,-22,-5,-17,-46,-36,19
+1838959,ZA,South Africa,Gauteng,,,ZA-GT,,2020-08-15,-21,-5,-6,-41,-6,10
+1838960,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-15,-4,-2,-5,-8,-1,-1
+1838961,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-16,-4,-3,-7,-6,-2,-1
+1838962,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-17,-9,-6,-8,3,4,1
+1838963,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-18,-11,-12,-15,1,4,1
+1838964,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-19,-17,-17,-22,-8,2,4
+1838965,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-20,-6,-7,-7,1,4,-1
+1838966,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-21,-9,-10,-6,3,3,-2
+1838967,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-22,-12,-11,-14,-12,2,1
+1838968,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-23,-13,-14,-30,-11,-3,4
+1838969,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-24,-13,-14,-10,-3,5,1
+1838970,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-25,0,-3,-11,-1,6,-1
+1838971,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-26,-1,-5,-9,-1,5,0
+1838972,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-27,2,-1,-8,6,6,0
+1838973,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-28,0,0,-20,9,3,1
+1838974,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-02-29,7,9,-13,-1,4,0
+1838975,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-01,15,17,-3,7,7,-1
+1838976,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-02,3,7,-3,10,9,-1
+1838977,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-03,3,3,-6,4,9,-1
+1838978,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-04,2,2,-8,-1,9,1
+1838979,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-05,4,5,-3,5,10,0
+1838980,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-06,0,3,-6,6,7,0
+1838981,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-07,-3,2,-9,-11,5,1
+1838982,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-08,-4,-1,-8,-8,2,2
+1838983,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-09,-11,-6,-10,0,6,1
+1838984,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-10,-11,-11,-13,-4,4,0
+1838985,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-11,-10,-10,-12,-9,4,-1
+1838986,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-12,-7,-8,-7,-6,4,-2
+1838987,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-13,-3,-2,-8,-1,3,-3
+1838988,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-14,-4,-2,-10,-15,3,0
+1838989,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-15,-7,-5,-10,-15,0,2
+1838990,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-16,-15,-5,-25,-14,0,5
+1838991,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-17,-12,-5,-20,-11,-1,4
+1838992,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-18,-11,-3,-13,-14,-6,7
+1838993,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-19,-13,-5,-9,-17,-10,8
+1838994,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-20,-17,-6,-13,-18,-13,8
+1838995,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-21,-28,-10,-19,-29,-20,9
+1838996,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-22,-30,-14,-18,-38,-11,8
+1838997,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-23,-19,-6,-5,-31,-17,9
+1838998,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-24,-7,11,-11,-23,-17,7
+1838999,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-25,10,26,-11,-18,-18,5
+1839000,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-26,14,50,-7,-29,-25,4
+1839001,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-27,-80,-62,-27,-80,-72,37
+1839002,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-28,-81,-61,-43,-80,-59,27
+1839003,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-29,-80,-61,-41,-82,-48,23
+1839004,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-30,-71,-49,-17,-79,-70,32
+1839005,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-03-31,-68,-44,-19,-76,-70,30
+1839006,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-01,-69,-43,-19,-78,-70,32
+1839007,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-02,-67,-39,-15,-77,-69,32
+1839008,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-03,-71,-42,-23,-78,-69,35
+1839009,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-04,-78,-53,-44,-80,-55,27
+1839010,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-05,-78,-54,-41,-82,-44,22
+1839011,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-06,-72,-46,-18,-80,-70,33
+1839012,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-07,-73,-47,-22,-79,-71,34
+1839013,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-08,-73,-46,-23,-81,-70,34
+1839014,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-09,-68,-38,-19,-80,-71,33
+1839015,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-10,-81,-60,-29,-85,-82,41
+1839016,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-11,-77,-49,-46,-81,-56,27
+1839017,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-12,-79,-56,-45,-84,-45,23
+1839018,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-13,-80,-61,-22,-85,-83,39
+1839019,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-14,-72,-48,-28,-80,-69,33
+1839020,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-15,-65,-37,-23,-78,-68,32
+1839021,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-16,-67,-36,-20,-78,-67,32
+1839022,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-17,-71,-41,-27,-79,-66,35
+1839023,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-18,-77,-49,-47,-79,-51,25
+1839024,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-19,-78,-53,-45,-82,-41,22
+1839025,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-20,-72,-47,-23,-78,-66,31
+1839026,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-21,-74,-50,-27,-77,-66,32
+1839027,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-22,-74,-49,-29,-79,-66,33
+1839028,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-23,-72,-46,-24,-79,-65,32
+1839029,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-24,-71,-42,-32,-79,-65,33
+1839030,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-25,-72,-41,-45,-76,-48,23
+1839031,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-26,-75,-47,-45,-82,-42,22
+1839032,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-27,-76,-53,-22,-82,-80,36
+1839033,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-28,-69,-41,-27,-77,-64,29
+1839034,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-29,-67,-40,-27,-76,-63,31
+1839035,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-04-30,-62,-30,-20,-74,-61,28
+1839036,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-01,-64,-36,-23,-79,-73,34
+1839037,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-02,-59,-26,-41,-69,-36,20
+1839038,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-03,-62,-32,-39,-74,-26,18
+1839039,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-04,-49,-23,-16,-65,-48,23
+1839040,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-05,-51,-25,-19,-60,-48,23
+1839041,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-06,-48,-21,-18,-58,-47,24
+1839042,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-07,-47,-18,-13,-58,-46,23
+1839043,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-08,-56,-28,-25,-68,-46,26
+1839044,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-09,-56,-24,-40,-70,-28,19
+1839045,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-10,-61,-31,-39,-75,-20,17
+1839046,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-11,-53,-31,-18,-68,-44,23
+1839047,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-12,-54,-31,-20,-65,-45,23
+1839048,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-13,-55,-32,-21,-67,-45,24
+1839049,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-14,-52,-28,-17,-66,-44,22
+1839050,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-15,-52,-24,-21,-67,-44,24
+1839051,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-16,-56,-24,-37,-68,-24,18
+1839052,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-17,-60,-32,-37,-74,-18,17
+1839053,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-18,-49,-26,-17,-67,-42,22
+1839054,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-19,-51,-29,-21,-66,-42,22
+1839055,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-20,-50,-27,-20,-66,-42,23
+1839056,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-21,-48,-23,-15,-65,-42,22
+1839057,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-22,-53,-27,-25,-69,-41,24
+1839058,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-23,-54,-24,-38,-68,-21,17
+1839059,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-24,-58,-30,-36,-74,-15,16
+1839060,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-25,-45,-22,-16,-66,-42,20
+1839061,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-26,-46,-24,-21,-64,-39,20
+1839062,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-27,-43,-20,-20,-64,-38,21
+1839063,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-28,-41,-16,-18,-63,-36,20
+1839064,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-29,-45,-18,-22,-65,-37,21
+1839065,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-30,-46,-13,-37,-63,-15,15
+1839066,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-05-31,-48,-16,-33,-69,-6,13
+1839067,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-01,-26,-3,-5,-56,-28,15
+1839068,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-02,-31,-11,-10,-56,-29,16
+1839069,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-03,-30,-9,-10,-56,-29,17
+1839070,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-04,-27,-4,-7,-56,-28,16
+1839071,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-05,-36,-13,-14,-57,-28,17
+1839072,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-06,-39,-11,-24,-58,-11,12
+1839073,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-07,-43,-17,-17,-65,-5,12
+1839074,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-08,-31,-11,-7,-55,-26,14
+1839075,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-09,-34,-14,-9,-52,-26,15
+1839076,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-10,-33,-14,-8,-52,-26,16
+1839077,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-11,-29,-10,-6,-51,-26,16
+1839078,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-12,-35,-15,-13,-57,-26,17
+1839079,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-13,-38,-13,-21,-59,-8,13
+1839080,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-14,-42,-21,-14,-67,-4,13
+1839081,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-15,-21,-4,0,-52,-30,15
+1839082,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-16,-39,-23,14,-63,-66,26
+1839083,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-17,-30,-12,-14,-52,-26,16
+1839084,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-18,-30,-14,-15,-54,-28,17
+1839085,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-19,-33,-16,-13,-53,-27,16
+1839086,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-20,-34,-11,-18,-56,-8,12
+1839087,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-21,-42,-21,-11,-63,-2,11
+1839088,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-22,-31,-18,-5,-53,-27,15
+1839089,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-23,-32,-19,-7,-51,-28,15
+1839090,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-24,-31,-18,-9,-54,-26,16
+1839091,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-25,-17,1,-6,-48,-25,14
+1839092,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-26,-25,-5,-9,-49,-27,15
+1839093,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-27,-28,-3,-13,-50,-10,10
+1839094,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-28,-32,-10,-9,-58,-5,10
+1839095,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-29,-23,-9,-5,-48,-26,14
+1839096,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-06-30,-19,-4,-10,-46,-26,13
+1839097,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-01,-19,-3,-5,-47,-24,14
+1839098,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-02,-15,3,1,-46,-24,14
+1839099,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-03,-23,-5,-4,-46,-26,15
+1839100,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-04,-29,-6,-11,-48,-9,11
+1839101,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-05,-32,-11,-3,-57,-3,10
+1839102,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-06,-20,-4,-4,-47,-26,14
+1839103,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-07,-23,-5,-10,-48,-28,15
+1839104,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-08,-26,-9,-10,-48,-27,16
+1839105,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-09,-23,-4,-6,-47,-27,15
+1839106,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-10,-32,-13,-8,-49,-29,16
+1839107,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-11,-42,-20,-33,-58,-15,15
+1839108,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-12,-39,-20,-15,-59,-9,11
+1839109,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-13,-31,-16,-6,-53,-29,15
+1839110,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-14,-34,-21,-15,-52,-31,16
+1839111,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-15,-24,-8,-14,-52,-29,16
+1839112,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-16,-24,-7,-8,-51,-29,15
+1839113,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-17,-30,-12,-15,-52,-29,18
+1839114,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-18,-36,-13,-20,-55,-13,14
+1839115,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-19,-39,-19,-17,-62,-10,14
+1839116,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-20,-29,-15,-10,-53,-29,16
+1839117,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-21,-31,-18,-11,-51,-30,16
+1839118,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-22,-31,-17,-14,-52,-29,17
+1839119,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-23,-28,-13,-10,-53,-29,17
+1839120,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-24,-27,-9,-14,-52,-29,17
+1839121,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-25,-27,-3,-18,-52,-12,12
+1839122,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-26,-31,-10,-11,-59,-9,12
+1839123,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-27,-24,-9,-12,-50,-33,17
+1839124,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-28,-23,-9,-10,-48,-32,17
+1839125,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-29,-24,-9,-10,-50,-32,17
+1839126,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-30,-20,-3,-4,-48,-32,16
+1839127,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-07-31,-22,-2,-7,-48,-32,16
+1839128,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-01,-25,0,-9,-50,-13,11
+1839129,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-02,-26,-4,-6,-55,-7,11
+1839130,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-03,-18,-1,1,-46,-28,15
+1839131,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-04,-20,-4,-3,-43,-29,15
+1839132,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-05,-19,-2,-11,-47,-28,16
+1839133,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-06,-18,0,-7,-46,-28,15
+1839134,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-07,-22,-3,3,-45,-28,14
+1839135,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-08,-26,-2,-4,-49,-11,10
+1839136,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-09,-28,-11,13,-56,-8,10
+1839137,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-10,-31,-18,43,-57,-69,23
+1839138,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-11,-23,-9,1,-44,-26,13
+1839139,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-12,-25,-11,-2,-47,-26,15
+1839140,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-13,-23,-9,2,-48,-26,13
+1839141,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-14,-21,-4,-2,-48,-25,13
+1839142,ZA,South Africa,KwaZulu-Natal,,,ZA-NL,,2020-08-15,-26,-4,-1,-50,-8,10
+1839143,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-15,-5,-8,1,51,2,-2
+1839144,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-16,-6,-8,-3,50,2,-1
+1839145,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-17,-13,-13,-8,42,5,1
+1839146,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-18,-11,-15,-3,40,6,1
+1839147,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-19,-10,-16,1,49,4,2
+1839148,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-20,-9,-13,-5,45,4,0
+1839149,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-21,-6,-9,-10,53,3,-3
+1839150,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-22,-12,-14,-11,45,6,-1
+1839151,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-23,-19,-19,-26,-4,2,5
+1839152,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-24,-18,-17,-15,-1,5,2
+1839153,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-25,-3,-9,-11,4,8,1
+1839154,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-26,0,-7,-9,5,6,1
+1839155,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-27,1,-1,-12,-2,4,0
+1839156,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-28,9,10,-3,18,4,-2
+1839157,ZA,South Africa,Limpopo,,,ZA-LP,,2020-02-29,11,7,-4,20,7,-1
+1839158,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-01,19,23,-1,12,12,-1
+1839159,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-02,2,6,-7,8,9,1
+1839160,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-03,-1,2,-3,12,10,1
+1839161,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-04,3,3,-4,13,10,2
+1839162,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-05,1,3,-7,8,10,1
+1839163,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-06,-1,3,-2,11,10,0
+1839164,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-07,-5,-4,-7,15,12,0
+1839165,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-08,-8,-2,-9,-5,10,3
+1839166,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-09,-15,-10,-11,-4,8,1
+1839167,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-10,-14,-13,-11,-7,2,0
+1839168,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-11,-12,-12,-10,-12,3,-1
+1839169,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-12,-14,-12,-13,-8,2,-2
+1839170,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-13,-6,-3,-5,-10,4,-4
+1839171,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-14,-9,-8,-8,-9,6,-1
+1839172,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-15,-11,-8,-14,-8,8,2
+1839173,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-16,-15,-8,-16,-10,6,2
+1839174,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-17,-13,-12,-13,-8,1,3
+1839175,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-18,-9,-10,-11,-11,-3,5
+1839176,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-19,-12,-10,-9,-12,-12,7
+1839177,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-20,-8,-1,-4,-14,-14,5
+1839178,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-21,-22,-18,-6,-14,-20,7
+1839179,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-22,-22,-13,-9,-24,-7,7
+1839180,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-23,-14,-7,-1,-18,-18,7
+1839181,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-24,-1,9,0,-11,-18,6
+1839182,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-25,23,29,6,6,-21,4
+1839183,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-26,27,49,17,15,-28,2
+1839184,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-27,-74,-59,-5,-75,-69,36
+1839185,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-28,-73,-60,-23,-67,-50,26
+1839186,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-29,-70,-57,-16,-69,-38,24
+1839187,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-30,-65,-51,3,-62,-67,32
+1839188,ZA,South Africa,Limpopo,,,ZA-LP,,2020-03-31,-61,-48,7,-60,-67,30
+1839189,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-01,-56,-43,11,-56,-65,31
+1839190,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-02,-56,-41,7,-56,-65,32
+1839191,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-03,-61,-42,2,-61,-63,32
+1839192,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-04,-70,-53,-20,-71,-45,25
+1839193,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-05,-66,-48,-13,-64,-33,22
+1839194,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-06,-65,-48,3,-69,-66,32
+1839195,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-07,-63,-47,2,-62,-66,30
+1839196,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-08,-63,-47,2,-65,-66,33
+1839197,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-09,-60,-40,0,-63,-67,32
+1839198,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-10,-77,-68,-6,-76,-80,41
+1839199,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-11,-70,-53,-23,-67,-49,25
+1839200,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-12,-69,-53,-19,-69,-34,22
+1839201,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-13,-75,-65,-6,-79,-79,40
+1839202,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-14,-60,-44,-2,-63,-64,29
+1839203,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-15,-57,-39,1,-61,-64,31
+1839204,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-16,-60,-40,-1,-64,-64,31
+1839205,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-17,-64,-44,-6,-69,-62,32
+1839206,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-18,-69,-54,-27,-68,-42,23
+1839207,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-19,-69,-54,-21,-71,-30,22
+1839208,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-20,-63,-50,-4,-67,-61,30
+1839209,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-21,-64,-51,0,-69,-61,29
+1839210,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-22,-60,-47,-3,-69,-61,30
+1839211,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-23,-61,-46,-3,-71,-61,30
+1839212,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-24,-60,-41,-9,-67,-58,29
+1839213,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-25,-62,-43,-23,-59,-36,20
+1839214,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-26,-64,-43,-20,-69,-27,21
+1839215,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-27,-72,-60,-5,-75,-75,36
+1839216,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-28,-56,-41,-1,-62,-58,27
+1839217,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-29,-55,-40,0,-64,-58,28
+1839218,ZA,South Africa,Limpopo,,,ZA-LP,,2020-04-30,-50,-28,4,-59,-55,25
+1839219,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-01,-56,-38,1,-63,-66,29
+1839220,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-02,-43,-20,-16,-36,-21,16
+1839221,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-03,-46,-20,-13,-47,-9,15
+1839222,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-04,-38,-21,4,-33,-43,20
+1839223,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-05,-38,-23,5,-35,-43,20
+1839224,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-06,-33,-19,5,-27,-42,21
+1839225,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-07,-32,-15,5,-25,-42,20
+1839226,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-08,-48,-28,-6,-51,-40,24
+1839227,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-09,-51,-31,-21,-49,-14,17
+1839228,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-10,-51,-29,-19,-56,-6,17
+1839229,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-11,-44,-29,-1,-47,-40,22
+1839230,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-12,-44,-30,0,-44,-40,21
+1839231,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-13,-42,-30,1,-47,-39,22
+1839232,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-14,-40,-28,1,-48,-40,22
+1839233,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-15,-39,-23,-1,-50,-36,22
+1839234,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-16,-44,-27,-20,-44,-8,15
+1839235,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-17,-49,-31,-18,-53,-3,16
+1839236,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-18,-40,-29,0,-48,-37,21
+1839237,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-19,-41,-32,0,-47,-38,21
+1839238,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-20,-38,-29,-1,-47,-38,23
+1839239,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-21,-38,-27,-2,-53,-38,22
+1839240,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-22,-39,-23,-8,-53,-34,21
+1839241,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-23,-43,-27,-23,-48,-5,15
+1839242,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-24,-46,-28,-17,-51,2,15
+1839243,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-25,-33,-22,-2,-47,-35,20
+1839244,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-26,-33,-24,-1,-42,-31,18
+1839245,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-27,-30,-21,-3,-47,-32,20
+1839246,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-28,-29,-17,-3,-48,-31,19
+1839247,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-29,-31,-15,-3,-45,-28,19
+1839248,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-30,-32,-16,-18,-37,3,12
+1839249,ZA,South Africa,Limpopo,,,ZA-LP,,2020-05-31,-32,-11,-14,-43,16,12
+1839250,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-01,-15,-3,4,-23,-22,14
+1839251,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-02,-17,-11,3,-22,-22,14
+1839252,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-03,-15,-9,3,-22,-22,16
+1839253,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-04,-14,-2,3,-20,-22,16
+1839254,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-05,-23,-13,1,-24,-20,15
+1839255,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-06,-26,-15,-13,-17,7,11
+1839256,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-07,-27,-12,-9,-26,19,11
+1839257,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-08,-21,-12,1,-16,-18,14
+1839258,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-09,-22,-17,0,-25,-18,13
+1839259,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-10,-20,-14,3,-25,-18,15
+1839260,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-11,-17,-11,2,-25,-19,15
+1839261,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-12,-24,-16,-1,-22,-18,15
+1839262,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-13,-27,-18,-12,-21,9,12
+1839263,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-14,-30,-21,-8,-32,17,12
+1839264,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-15,-9,-4,7,-17,-21,13
+1839265,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-16,-37,-34,6,-54,-59,25
+1839266,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-17,-12,-8,1,-28,-19,15
+1839267,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-18,-16,-10,0,-41,-20,14
+1839268,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-19,-24,-17,-4,-36,-18,14
+1839269,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-20,-27,-17,-14,-32,9,11
+1839270,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-21,-30,-18,-11,-47,17,12
+1839271,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-22,-23,-19,-2,-33,-19,15
+1839272,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-23,-22,-20,-2,-25,-19,14
+1839273,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-24,-18,-17,-1,-32,-17,15
+1839274,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-25,-6,1,2,-25,-17,13
+1839275,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-26,-12,-5,2,-21,-16,12
+1839276,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-27,-14,-5,-8,-15,7,9
+1839277,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-28,-18,-7,-7,-28,15,10
+1839278,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-29,-14,-10,1,-19,-16,13
+1839279,ZA,South Africa,Limpopo,,,ZA-LP,,2020-06-30,-5,-4,0,-12,-14,11
+1839280,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-01,-1,2,3,-10,-13,13
+1839281,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-02,0,8,4,-10,-13,13
+1839282,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-03,-8,-1,4,-8,-13,12
+1839283,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-04,-12,-3,-2,-6,12,9
+1839284,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-05,-10,1,-1,-5,22,10
+1839285,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-06,-10,-5,4,-15,-14,12
+1839286,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-07,-9,-6,4,-8,-14,12
+1839287,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-08,-13,-9,-2,-20,-14,15
+1839288,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-09,-12,-5,-3,-23,-15,14
+1839289,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-10,-21,-14,-2,-21,-13,13
+1839290,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-11,-26,-18,-14,-29,5,10
+1839291,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-12,-25,-17,-10,-28,14,11
+1839292,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-13,-24,-19,-4,-22,-16,13
+1839293,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-14,-24,-22,-3,-17,-17,13
+1839294,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-15,-11,-10,-1,-25,-15,15
+1839295,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-16,-12,-8,-2,-25,-16,14
+1839296,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-17,-19,-11,-1,-24,-14,15
+1839297,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-18,-24,-18,-15,-24,7,13
+1839298,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-19,-28,-18,-11,-31,14,14
+1839299,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-20,-22,-18,-5,-25,-15,16
+1839300,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-21,-22,-22,-3,-22,-16,15
+1839301,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-22,-13,-12,-1,-24,-14,16
+1839302,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-23,-15,-12,-3,-25,-15,15
+1839303,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-24,-14,-8,0,-19,-13,15
+1839304,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-25,-13,-4,-12,-17,5,12
+1839305,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-26,-15,-5,-8,-31,12,13
+1839306,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-27,-11,-6,0,-22,-23,17
+1839307,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-28,-11,-10,-2,-17,-24,16
+1839308,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-29,-7,-6,1,-23,-24,17
+1839309,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-30,-8,-3,2,-30,-25,16
+1839310,ZA,South Africa,Limpopo,,,ZA-LP,,2020-07-31,-5,2,5,-21,-23,14
+1839311,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-01,-4,5,1,-13,6,9
+1839312,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-02,-2,8,4,-16,17,10
+1839313,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-03,-4,2,6,-12,-18,13
+1839314,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-04,-3,-1,10,-12,-18,13
+1839315,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-05,1,3,11,-11,-18,15
+1839316,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-06,1,6,11,-12,-19,13
+1839317,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-07,-6,1,18,-15,-18,12
+1839318,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-08,-8,-2,12,-5,9,8
+1839319,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-09,-8,-1,25,-19,15,9
+1839320,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-10,-28,-28,28,-41,-61,23
+1839321,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-11,-6,-5,14,-5,-14,10
+1839322,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-12,-9,-8,15,-16,-14,13
+1839323,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-13,-11,-7,11,-16,-15,12
+1839324,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-14,-8,-2,15,-15,-12,10
+1839325,ZA,South Africa,Limpopo,,,ZA-LP,,2020-08-15,-9,-3,4,-11,17,8
+1839326,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-15,-8,-1,-6,5,-2,-2
+1839327,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-16,-9,-3,-9,-4,-1,0
+1839328,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-17,-12,-11,-6,8,3,1
+1839329,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-18,-14,-12,-6,-5,2,1
+1839330,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-19,-14,-16,-7,-7,2,2
+1839331,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-20,-12,-12,-8,-10,-1,0
+1839332,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-21,-7,-6,-6,1,1,-3
+1839333,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-22,-12,-7,-12,5,2,-1
+1839334,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-23,-17,-11,-21,-13,0,4
+1839335,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-24,-12,-16,-8,-6,3,1
+1839336,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-25,0,-1,-7,-2,3,0
+1839337,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-26,-1,-2,-10,-3,3,1
+1839338,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-27,6,7,-6,7,1,0
+1839339,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-28,10,13,-4,30,0,-2
+1839340,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-02-29,11,15,-6,8,2,-1
+1839341,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-01,18,21,1,27,7,-1
+1839342,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-02,5,6,-2,15,5,1
+1839343,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-03,3,7,-1,3,7,0
+1839344,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-04,3,6,-1,4,7,1
+1839345,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-05,4,8,0,3,6,1
+1839346,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-06,3,9,4,6,5,-1
+1839347,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-07,0,8,4,10,6,0
+1839348,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-08,-4,4,-7,-1,4,3
+1839349,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-09,-9,-7,-3,4,6,1
+1839350,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-10,-11,-6,-4,-3,3,-1
+1839351,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-11,-12,-9,-5,-7,1,-1
+1839352,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-12,-10,-4,-6,-7,0,-2
+1839353,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-13,-5,5,-2,-4,1,-4
+1839354,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-14,-7,4,-7,-1,3,0
+1839355,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-15,-10,1,-8,-11,3,2
+1839356,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-16,-11,1,-8,-10,3,3
+1839357,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-17,-14,-4,-9,-7,0,3
+1839358,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-18,-13,-5,-6,-8,-5,5
+1839359,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-19,-12,-4,-5,-8,-11,7
+1839360,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-20,-13,3,-4,-2,-12,6
+1839361,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-21,-23,-5,-5,-6,-16,7
+1839362,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-22,-25,-5,-7,-18,-6,8
+1839363,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-23,-14,-1,1,-11,-15,7
+1839364,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-24,-3,21,-5,-11,-14,5
+1839365,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-25,19,38,-6,10,-16,4
+1839366,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-26,26,61,-5,30,-24,2
+1839367,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-27,-75,-57,-19,-64,-66,35
+1839368,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-28,-74,-53,-32,-56,-46,25
+1839369,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-29,-72,-53,-27,-58,-35,23
+1839370,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-30,-66,-47,-13,-56,-64,31
+1839371,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-03-31,-64,-43,-13,-51,-63,31
+1839372,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-01,-62,-40,-11,-55,-62,31
+1839373,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-02,-61,-36,-12,-56,-63,32
+1839374,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-03,-65,-40,-13,-60,-61,33
+1839375,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-04,-71,-47,-32,-61,-43,24
+1839376,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-05,-69,-46,-24,-60,-30,22
+1839377,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-06,-64,-44,-13,-58,-62,31
+1839378,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-07,-66,-42,-16,-60,-63,31
+1839379,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-08,-67,-45,-18,-61,-63,33
+1839380,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-09,-63,-35,-13,-60,-63,32
+1839381,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-10,-78,-62,-23,-72,-78,41
+1839382,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-11,-71,-40,-34,-61,-45,24
+1839383,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-12,-71,-47,-31,-67,-32,23
+1839384,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-13,-75,-59,-21,-67,-78,39
+1839385,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-14,-64,-39,-22,-59,-60,30
+1839386,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-15,-61,-35,-19,-59,-60,31
+1839387,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-16,-62,-35,-19,-58,-60,31
+1839388,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-17,-67,-37,-23,-60,-58,32
+1839389,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-18,-71,-45,-37,-51,-40,23
+1839390,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-19,-72,-47,-33,-61,-28,21
+1839391,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-20,-66,-46,-18,-54,-57,29
+1839392,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-21,-67,-47,-22,-54,-57,30
+1839393,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-22,-65,-44,-22,-51,-57,30
+1839394,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-23,-64,-42,-19,-54,-57,29
+1839395,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-24,-63,-34,-18,-52,-54,29
+1839396,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-25,-63,-31,-33,-45,-35,20
+1839397,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-26,-64,-32,-30,-50,-25,19
+1839398,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-27,-69,-51,-19,-61,-75,35
+1839399,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-28,-59,-34,-19,-55,-54,26
+1839400,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-29,-58,-34,-16,-49,-53,28
+1839401,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-04-30,-52,-25,-13,-43,-52,25
+1839402,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-01,-56,-31,-15,-51,-67,31
+1839403,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-02,-47,-14,-26,-22,-24,17
+1839404,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-03,-51,-18,-23,-29,-12,17
+1839405,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-04,-38,-19,-11,-20,-38,19
+1839406,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-05,-43,-20,-11,-26,-39,20
+1839407,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-06,-40,-18,-9,-16,-38,21
+1839408,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-07,-38,-15,-6,-15,-39,20
+1839409,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-08,-47,-20,-14,-33,-36,22
+1839410,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-09,-48,-15,-28,-23,-15,16
+1839411,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-10,-52,-19,-25,-38,-6,16
+1839412,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-11,-43,-26,-12,-30,-35,21
+1839413,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-12,-45,-25,-15,-33,-36,21
+1839414,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-13,-46,-26,-12,-30,-35,21
+1839415,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-14,-44,-25,-10,-26,-36,21
+1839416,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-15,-45,-19,-10,-30,-33,21
+1839417,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-16,-46,-16,-24,-16,-11,15
+1839418,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-17,-53,-25,-28,-32,-4,16
+1839419,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-18,-42,-26,-13,-23,-33,20
+1839420,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-19,-46,-29,-17,-25,-33,20
+1839421,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-20,-44,-26,-14,-25,-33,22
+1839422,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-21,-42,-24,-15,-23,-34,21
+1839423,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-22,-44,-19,-17,-31,-31,20
+1839424,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-23,-44,-14,-26,-15,-9,14
+1839425,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-24,-49,-20,-26,-35,-2,16
+1839426,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-25,-35,-19,-12,-20,-32,19
+1839427,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-26,-37,-17,-14,-22,-30,18
+1839428,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-27,-35,-16,-13,-21,-29,19
+1839429,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-28,-32,-12,-10,-19,-29,19
+1839430,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-29,-34,-9,-13,-21,-27,18
+1839431,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-30,-33,-1,-23,-4,-3,12
+1839432,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-05-31,-36,-3,-21,-15,6,12
+1839433,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-01,-15,4,-7,-3,-21,13
+1839434,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-02,-24,-5,-9,-7,-22,15
+1839435,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-03,-23,-5,-8,-7,-21,16
+1839436,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-04,-20,1,-5,-8,-22,16
+1839437,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-05,-28,-8,-8,-12,-21,15
+1839438,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-06,-31,-3,-18,4,0,11
+1839439,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-07,-36,-9,-18,-15,7,12
+1839440,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-08,-24,-10,-5,-3,-19,14
+1839441,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-09,-29,-12,-9,-10,-20,14
+1839442,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-10,-28,-11,-7,-11,-19,15
+1839443,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-11,-22,-6,-5,-15,-21,16
+1839444,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-12,-30,-12,-7,-18,-20,15
+1839445,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-13,-33,-9,-18,-5,0,12
+1839446,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-14,-37,-15,-16,-23,7,13
+1839447,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-15,-16,-4,-4,-9,-25,14
+1839448,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-16,-41,-27,-7,-36,-63,28
+1839449,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-17,-27,-12,-12,-21,-22,16
+1839450,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-18,-24,-11,-10,-19,-23,16
+1839451,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-19,-30,-14,-12,-21,-21,15
+1839452,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-20,-31,-8,-20,-9,0,12
+1839453,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-21,-37,-16,-17,-26,7,13
+1839454,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-22,-27,-19,-9,-14,-22,14
+1839455,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-23,-27,-16,-11,-16,-22,14
+1839456,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-24,-27,-15,-9,-17,-20,15
+1839457,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-25,-10,6,-6,-7,-20,13
+1839458,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-26,-17,2,-4,-10,-20,12
+1839459,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-27,-19,7,-12,4,-1,9
+1839460,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-28,-23,2,-13,-10,5,10
+1839461,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-29,-15,-5,-6,-7,-19,12
+1839462,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-06-30,-12,2,-7,-12,-18,12
+1839463,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-01,-11,5,-3,-11,-16,12
+1839464,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-02,-8,10,3,-11,-18,13
+1839465,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-03,-18,3,1,-9,-18,12
+1839466,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-04,-20,4,-9,-2,3,9
+1839467,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-05,-22,2,-5,-7,11,10
+1839468,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-06,-14,-1,-3,-7,-18,12
+1839469,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-07,-17,0,-4,-13,-19,12
+1839470,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-08,-23,-6,-8,-18,-18,14
+1839471,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-09,-19,-1,2,-17,-20,14
+1839472,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-10,-28,-8,2,-20,-20,13
+1839473,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-11,-33,-12,-11,-17,-4,12
+1839474,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-12,-35,-14,-8,-22,2,11
+1839475,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-13,-28,-16,-8,-15,-21,13
+1839476,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-14,-31,-18,-8,-25,-23,14
+1839477,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-15,-22,-6,-10,-23,-21,15
+1839478,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-16,-22,-6,-8,-21,-22,14
+1839479,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-17,-27,-7,-9,-23,-20,15
+1839480,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-18,-31,-8,-19,-10,-2,13
+1839481,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-19,-35,-12,-16,-28,2,14
+1839482,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-20,-27,-15,-9,-15,-21,15
+1839483,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-21,-30,-17,-13,-19,-23,15
+1839484,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-22,-25,-10,-11,-18,-21,16
+1839485,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-23,-22,-8,-6,-24,-22,16
+1839486,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-24,-20,-1,-8,-18,-21,13
+1839487,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-25,-19,8,-14,-7,-3,11
+1839488,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-26,-22,3,-12,-20,2,12
+1839489,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-27,-17,-4,-7,-11,-26,16
+1839490,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-28,-20,-4,-10,-16,-26,16
+1839491,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-29,-17,-3,-7,-14,-26,16
+1839492,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-30,-14,2,-5,-17,-27,15
+1839493,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-07-31,-13,10,-3,-15,-27,13
+1839494,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-01,-11,17,-4,1,-4,9
+1839495,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-02,-13,14,-5,-8,4,10
+1839496,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-03,-10,6,-1,-5,-22,13
+1839497,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-04,-13,4,-3,-10,-23,13
+1839498,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-05,-11,7,-2,-7,-22,15
+1839499,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-06,-9,9,2,-7,-23,13
+1839500,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-07,-18,3,12,-8,-24,12
+1839501,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-08,-19,7,8,8,-3,9
+1839502,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-09,-21,-1,18,-8,2,10
+1839503,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-10,-30,-21,18,-21,-66,23
+1839504,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-11,-20,-4,1,-12,-20,12
+1839505,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-12,-20,-4,3,-7,-19,14
+1839506,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-13,-19,-3,2,-9,-21,12
+1839507,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-14,-18,3,7,-12,-19,10
+1839508,ZA,South Africa,Mpumalanga,,,ZA-MP,,2020-08-15,-20,7,3,5,4,8
+1839509,ZA,South Africa,North West,,,ZA-NW,,2020-02-15,5,-1,4,-23,-3,-2
+1839510,ZA,South Africa,North West,,,ZA-NW,,2020-02-16,-5,-1,-5,-25,-4,1
+1839511,ZA,South Africa,North West,,,ZA-NW,,2020-02-17,-12,-11,-9,-22,2,1
+1839512,ZA,South Africa,North West,,,ZA-NW,,2020-02-18,-12,-12,-10,-23,2,1
+1839513,ZA,South Africa,North West,,,ZA-NW,,2020-02-19,-12,-13,-9,-22,2,3
+1839514,ZA,South Africa,North West,,,ZA-NW,,2020-02-20,-8,-11,-9,-25,0,1
+1839515,ZA,South Africa,North West,,,ZA-NW,,2020-02-21,-8,-11,-9,-29,0,-1
+1839516,ZA,South Africa,North West,,,ZA-NW,,2020-02-22,-6,-12,-15,-33,-1,1
+1839517,ZA,South Africa,North West,,,ZA-NW,,2020-02-23,-11,-10,-16,-42,-2,3
+1839518,ZA,South Africa,North West,,,ZA-NW,,2020-02-24,-14,-15,-13,-33,2,2
+1839519,ZA,South Africa,North West,,,ZA-NW,,2020-02-25,-2,-4,-10,-14,4,0
+1839520,ZA,South Africa,North West,,,ZA-NW,,2020-02-26,5,0,-3,-22,4,0
+1839521,ZA,South Africa,North West,,,ZA-NW,,2020-02-27,8,4,-7,-15,3,-1
+1839522,ZA,South Africa,North West,,,ZA-NW,,2020-02-28,15,15,-7,-8,2,-3
+1839523,ZA,South Africa,North West,,,ZA-NW,,2020-02-29,21,16,0,-17,1,-2
+1839524,ZA,South Africa,North West,,,ZA-NW,,2020-03-01,22,21,-3,-10,5,-1
+1839525,ZA,South Africa,North West,,,ZA-NW,,2020-03-02,6,8,-9,-19,6,1
+1839526,ZA,South Africa,North West,,,ZA-NW,,2020-03-03,3,6,-5,-18,8,0
+1839527,ZA,South Africa,North West,,,ZA-NW,,2020-03-04,4,7,1,-14,8,1
+1839528,ZA,South Africa,North West,,,ZA-NW,,2020-03-05,6,4,0,-12,7,0
+1839529,ZA,South Africa,North West,,,ZA-NW,,2020-03-06,7,7,-1,-18,6,-1
+1839530,ZA,South Africa,North West,,,ZA-NW,,2020-03-07,14,7,6,-17,6,-1
+1839531,ZA,South Africa,North West,,,ZA-NW,,2020-03-08,1,3,-2,-23,2,2
+1839532,ZA,South Africa,North West,,,ZA-NW,,2020-03-09,-9,-6,-6,-28,5,1
+1839533,ZA,South Africa,North West,,,ZA-NW,,2020-03-10,-9,-6,-6,-27,4,-1
+1839534,ZA,South Africa,North West,,,ZA-NW,,2020-03-11,-8,-8,-6,-23,2,-1
+1839535,ZA,South Africa,North West,,,ZA-NW,,2020-03-12,-8,-10,-8,-24,0,-2
+1839536,ZA,South Africa,North West,,,ZA-NW,,2020-03-13,-1,1,-5,-24,0,-5
+1839537,ZA,South Africa,North West,,,ZA-NW,,2020-03-14,2,0,-2,-17,1,-2
+1839538,ZA,South Africa,North West,,,ZA-NW,,2020-03-15,-6,-1,-9,-27,-1,2
+1839539,ZA,South Africa,North West,,,ZA-NW,,2020-03-16,-10,2,-13,-25,3,3
+1839540,ZA,South Africa,North West,,,ZA-NW,,2020-03-17,-18,-12,-14,-26,-1,3
+1839541,ZA,South Africa,North West,,,ZA-NW,,2020-03-18,-12,-6,-9,-22,-3,4
+1839542,ZA,South Africa,North West,,,ZA-NW,,2020-03-19,-14,-9,-4,-16,-11,6
+1839543,ZA,South Africa,North West,,,ZA-NW,,2020-03-20,-13,-1,-7,-19,-12,6
+1839544,ZA,South Africa,North West,,,ZA-NW,,2020-03-21,-23,-7,-12,-25,-18,7
+1839545,ZA,South Africa,North West,,,ZA-NW,,2020-03-22,-33,-15,-21,-35,-10,8
+1839546,ZA,South Africa,North West,,,ZA-NW,,2020-03-23,-20,-4,-6,-30,-16,8
+1839547,ZA,South Africa,North West,,,ZA-NW,,2020-03-24,-7,19,-6,-20,-14,5
+1839548,ZA,South Africa,North West,,,ZA-NW,,2020-03-25,12,36,-2,25,-17,4
+1839549,ZA,South Africa,North West,,,ZA-NW,,2020-03-26,20,56,1,16,-24,2
+1839550,ZA,South Africa,North West,,,ZA-NW,,2020-03-27,-77,-58,-30,-65,-69,37
+1839551,ZA,South Africa,North West,,,ZA-NW,,2020-03-28,-78,-58,-47,-67,-52,26
+1839552,ZA,South Africa,North West,,,ZA-NW,,2020-03-29,-77,-60,-41,-63,-42,24
+1839553,ZA,South Africa,North West,,,ZA-NW,,2020-03-30,-71,-48,-19,-64,-68,33
+1839554,ZA,South Africa,North West,,,ZA-NW,,2020-03-31,-70,-45,-18,-56,-67,30
+1839555,ZA,South Africa,North West,,,ZA-NW,,2020-04-01,-68,-40,-15,-54,-66,31
+1839556,ZA,South Africa,North West,,,ZA-NW,,2020-04-02,-69,-42,-21,-60,-67,33
+1839557,ZA,South Africa,North West,,,ZA-NW,,2020-04-03,-72,-44,-28,-67,-66,36
+1839558,ZA,South Africa,North West,,,ZA-NW,,2020-04-04,-76,-50,-47,-66,-48,25
+1839559,ZA,South Africa,North West,,,ZA-NW,,2020-04-05,-75,-52,-40,-58,-36,22
+1839560,ZA,South Africa,North West,,,ZA-NW,,2020-04-06,-71,-46,-19,-62,-66,33
+1839561,ZA,South Africa,North West,,,ZA-NW,,2020-04-07,-71,-45,-22,-59,-67,32
+1839562,ZA,South Africa,North West,,,ZA-NW,,2020-04-08,-71,-45,-20,-58,-67,33
+1839563,ZA,South Africa,North West,,,ZA-NW,,2020-04-09,-67,-36,-17,-60,-67,32
+1839564,ZA,South Africa,North West,,,ZA-NW,,2020-04-10,-82,-69,-35,-71,-80,43
+1839565,ZA,South Africa,North West,,,ZA-NW,,2020-04-11,-74,-46,-47,-62,-49,25
+1839566,ZA,South Africa,North West,,,ZA-NW,,2020-04-12,-76,-52,-46,-69,-36,23
+1839567,ZA,South Africa,North West,,,ZA-NW,,2020-04-13,-79,-64,-25,-68,-79,39
+1839568,ZA,South Africa,North West,,,ZA-NW,,2020-04-14,-70,-43,-26,-65,-65,31
+1839569,ZA,South Africa,North West,,,ZA-NW,,2020-04-15,-66,-36,-23,-52,-65,33
+1839570,ZA,South Africa,North West,,,ZA-NW,,2020-04-16,-67,-38,-19,-53,-64,32
+1839571,ZA,South Africa,North West,,,ZA-NW,,2020-04-17,-70,-39,-31,-60,-63,35
+1839572,ZA,South Africa,North West,,,ZA-NW,,2020-04-18,-75,-50,-50,-66,-45,24
+1839573,ZA,South Africa,North West,,,ZA-NW,,2020-04-19,-75,-52,-48,-64,-33,22
+1839574,ZA,South Africa,North West,,,ZA-NW,,2020-04-20,-71,-49,-23,-66,-62,31
+1839575,ZA,South Africa,North West,,,ZA-NW,,2020-04-21,-72,-48,-27,-58,-61,30
+1839576,ZA,South Africa,North West,,,ZA-NW,,2020-04-22,-71,-48,-25,-57,-60,32
+1839577,ZA,South Africa,North West,,,ZA-NW,,2020-04-23,-70,-47,-24,-57,-60,31
+1839578,ZA,South Africa,North West,,,ZA-NW,,2020-04-24,-67,-37,-31,-57,-58,30
+1839579,ZA,South Africa,North West,,,ZA-NW,,2020-04-25,-67,-36,-46,-61,-38,21
+1839580,ZA,South Africa,North West,,,ZA-NW,,2020-04-26,-70,-40,-44,-63,-30,20
+1839581,ZA,South Africa,North West,,,ZA-NW,,2020-04-27,-74,-55,-25,-69,-75,36
+1839582,ZA,South Africa,North West,,,ZA-NW,,2020-04-28,-64,-36,-23,-59,-57,26
+1839583,ZA,South Africa,North West,,,ZA-NW,,2020-04-29,-63,-35,-19,-58,-55,27
+1839584,ZA,South Africa,North West,,,ZA-NW,,2020-04-30,-57,-27,-15,-54,-53,25
+1839585,ZA,South Africa,North West,,,ZA-NW,,2020-05-01,-59,-36,-24,-51,-67,31
+1839586,ZA,South Africa,North West,,,ZA-NW,,2020-05-02,-49,-20,-40,-45,-23,17
+1839587,ZA,South Africa,North West,,,ZA-NW,,2020-05-03,-56,-26,-37,-32,-15,17
+1839588,ZA,South Africa,North West,,,ZA-NW,,2020-05-04,-41,-21,-12,-36,-40,19
+1839589,ZA,South Africa,North West,,,ZA-NW,,2020-05-05,-45,-25,-15,-38,-41,20
+1839590,ZA,South Africa,North West,,,ZA-NW,,2020-05-06,-42,-20,-11,-37,-39,21
+1839591,ZA,South Africa,North West,,,ZA-NW,,2020-05-07,-40,-19,-8,-31,-39,20
+1839592,ZA,South Africa,North West,,,ZA-NW,,2020-05-08,-50,-24,-22,-50,-38,24
+1839593,ZA,South Africa,North West,,,ZA-NW,,2020-05-09,-50,-22,-38,-47,-19,17
+1839594,ZA,South Africa,North West,,,ZA-NW,,2020-05-10,-57,-28,-36,-51,-11,17
+1839595,ZA,South Africa,North West,,,ZA-NW,,2020-05-11,-47,-30,-16,-52,-38,22
+1839596,ZA,South Africa,North West,,,ZA-NW,,2020-05-12,-49,-30,-15,-45,-39,21
+1839597,ZA,South Africa,North West,,,ZA-NW,,2020-05-13,-49,-30,-14,-50,-38,22
+1839598,ZA,South Africa,North West,,,ZA-NW,,2020-05-14,-48,-29,-12,-42,-38,21
+1839599,ZA,South Africa,North West,,,ZA-NW,,2020-05-15,-48,-23,-20,-45,-36,23
+1839600,ZA,South Africa,North West,,,ZA-NW,,2020-05-16,-50,-24,-37,-46,-14,16
+1839601,ZA,South Africa,North West,,,ZA-NW,,2020-05-17,-58,-31,-38,-50,-9,17
+1839602,ZA,South Africa,North West,,,ZA-NW,,2020-05-18,-47,-30,-19,-46,-35,21
+1839603,ZA,South Africa,North West,,,ZA-NW,,2020-05-19,-48,-30,-16,-42,-35,21
+1839604,ZA,South Africa,North West,,,ZA-NW,,2020-05-20,-46,-28,-13,-47,-35,23
+1839605,ZA,South Africa,North West,,,ZA-NW,,2020-05-21,-45,-27,-11,-43,-36,22
+1839606,ZA,South Africa,North West,,,ZA-NW,,2020-05-22,-48,-25,-20,-48,-33,22
+1839607,ZA,South Africa,North West,,,ZA-NW,,2020-05-23,-47,-20,-37,-43,-13,15
+1839608,ZA,South Africa,North West,,,ZA-NW,,2020-05-24,-55,-26,-37,-49,-7,16
+1839609,ZA,South Africa,North West,,,ZA-NW,,2020-05-25,-41,-22,-14,-46,-33,20
+1839610,ZA,South Africa,North West,,,ZA-NW,,2020-05-26,-40,-19,-14,-41,-32,18
+1839611,ZA,South Africa,North West,,,ZA-NW,,2020-05-27,-38,-17,-13,-47,-31,20
+1839612,ZA,South Africa,North West,,,ZA-NW,,2020-05-28,-36,-16,-12,-34,-30,19
+1839613,ZA,South Africa,North West,,,ZA-NW,,2020-05-29,-39,-12,-19,-42,-27,19
+1839614,ZA,South Africa,North West,,,ZA-NW,,2020-05-30,-37,-9,-34,-41,-5,13
+1839615,ZA,South Africa,North West,,,ZA-NW,,2020-05-31,-44,-11,-33,-38,3,13
+1839616,ZA,South Africa,North West,,,ZA-NW,,2020-06-01,-21,-2,-7,-19,-20,14
+1839617,ZA,South Africa,North West,,,ZA-NW,,2020-06-02,-28,-12,-7,-24,-21,14
+1839618,ZA,South Africa,North West,,,ZA-NW,,2020-06-03,-27,-9,-4,-23,-20,16
+1839619,ZA,South Africa,North West,,,ZA-NW,,2020-06-04,-23,-5,-5,-24,-21,15
+1839620,ZA,South Africa,North West,,,ZA-NW,,2020-06-05,-31,-12,-14,-31,-21,16
+1839621,ZA,South Africa,North West,,,ZA-NW,,2020-06-06,-33,-11,-26,-31,-3,11
+1839622,ZA,South Africa,North West,,,ZA-NW,,2020-06-07,-41,-15,-26,-43,4,12
+1839623,ZA,South Africa,North West,,,ZA-NW,,2020-06-08,-30,-14,-7,-36,-19,15
+1839624,ZA,South Africa,North West,,,ZA-NW,,2020-06-09,-32,-16,-9,-29,-19,14
+1839625,ZA,South Africa,North West,,,ZA-NW,,2020-06-10,-31,-14,-7,-26,-19,16
+1839626,ZA,South Africa,North West,,,ZA-NW,,2020-06-11,-26,-11,-8,-22,-20,16
+1839627,ZA,South Africa,North West,,,ZA-NW,,2020-06-12,-33,-17,-17,-31,-21,17
+1839628,ZA,South Africa,North West,,,ZA-NW,,2020-06-13,-36,-17,-30,-32,-3,13
+1839629,ZA,South Africa,North West,,,ZA-NW,,2020-06-14,-44,-24,-30,-36,2,14
+1839630,ZA,South Africa,North West,,,ZA-NW,,2020-06-15,-21,-9,-6,-23,-24,15
+1839631,ZA,South Africa,North West,,,ZA-NW,,2020-06-16,-49,-37,-10,-55,-62,29
+1839632,ZA,South Africa,North West,,,ZA-NW,,2020-06-17,-28,-13,-12,-32,-20,16
+1839633,ZA,South Africa,North West,,,ZA-NW,,2020-06-18,-26,-15,-9,-30,-24,14
+1839634,ZA,South Africa,North West,,,ZA-NW,,2020-06-19,-31,-16,-15,-33,-21,15
+1839635,ZA,South Africa,North West,,,ZA-NW,,2020-06-20,-31,-13,-27,-28,-4,12
+1839636,ZA,South Africa,North West,,,ZA-NW,,2020-06-21,-42,-21,-26,-39,3,13
+1839637,ZA,South Africa,North West,,,ZA-NW,,2020-06-22,-30,-22,-14,-35,-23,16
+1839638,ZA,South Africa,North West,,,ZA-NW,,2020-06-23,-33,-23,-13,-33,-23,15
+1839639,ZA,South Africa,North West,,,ZA-NW,,2020-06-24,-30,-19,-12,-32,-21,16
+1839640,ZA,South Africa,North West,,,ZA-NW,,2020-06-25,-13,0,-9,-19,-21,13
+1839641,ZA,South Africa,North West,,,ZA-NW,,2020-06-26,-20,-5,-15,-25,-22,14
+1839642,ZA,South Africa,North West,,,ZA-NW,,2020-06-27,-20,-2,-23,-28,-5,9
+1839643,ZA,South Africa,North West,,,ZA-NW,,2020-06-28,-28,-7,-25,-28,-1,11
+1839644,ZA,South Africa,North West,,,ZA-NW,,2020-06-29,-20,-12,-9,-32,-20,13
+1839645,ZA,South Africa,North West,,,ZA-NW,,2020-06-30,-14,-5,-9,-22,-19,12
+1839646,ZA,South Africa,North West,,,ZA-NW,,2020-07-01,-13,-2,0,-21,-17,13
+1839647,ZA,South Africa,North West,,,ZA-NW,,2020-07-02,-9,1,-1,-14,-18,13
+1839648,ZA,South Africa,North West,,,ZA-NW,,2020-07-03,-17,-4,-7,-23,-19,13
+1839649,ZA,South Africa,North West,,,ZA-NW,,2020-07-04,-18,-3,-18,-21,-2,10
+1839650,ZA,South Africa,North West,,,ZA-NW,,2020-07-05,-25,-7,-18,-18,5,11
+1839651,ZA,South Africa,North West,,,ZA-NW,,2020-07-06,-17,-9,-6,-21,-19,14
+1839652,ZA,South Africa,North West,,,ZA-NW,,2020-07-07,-19,-9,-6,-16,-20,13
+1839653,ZA,South Africa,North West,,,ZA-NW,,2020-07-08,-23,-11,-8,-29,-19,15
+1839654,ZA,South Africa,North West,,,ZA-NW,,2020-07-09,-20,-9,-6,-23,-21,15
+1839655,ZA,South Africa,North West,,,ZA-NW,,2020-07-10,-27,-14,-12,-34,-22,15
+1839656,ZA,South Africa,North West,,,ZA-NW,,2020-07-11,-33,-19,-28,-30,-7,12
+1839657,ZA,South Africa,North West,,,ZA-NW,,2020-07-12,-38,-23,-24,-44,-4,13
+1839658,ZA,South Africa,North West,,,ZA-NW,,2020-07-13,-30,-22,-10,-34,-23,14
+1839659,ZA,South Africa,North West,,,ZA-NW,,2020-07-14,-32,-24,-11,-29,-23,14
+1839660,ZA,South Africa,North West,,,ZA-NW,,2020-07-15,-23,-14,-11,-28,-22,16
+1839661,ZA,South Africa,North West,,,ZA-NW,,2020-07-16,-23,-14,-11,-23,-22,15
+1839662,ZA,South Africa,North West,,,ZA-NW,,2020-07-17,-27,-15,-16,-35,-22,17
+1839663,ZA,South Africa,North West,,,ZA-NW,,2020-07-18,-31,-16,-26,-35,-5,14
+1839664,ZA,South Africa,North West,,,ZA-NW,,2020-07-19,-38,-21,-26,-41,-2,14
+1839665,ZA,South Africa,North West,,,ZA-NW,,2020-07-20,-29,-21,-14,-32,-22,16
+1839666,ZA,South Africa,North West,,,ZA-NW,,2020-07-21,-30,-22,-15,-29,-23,15
+1839667,ZA,South Africa,North West,,,ZA-NW,,2020-07-22,-29,-21,-13,-35,-22,17
+1839668,ZA,South Africa,North West,,,ZA-NW,,2020-07-23,-27,-20,-9,-31,-22,16
+1839669,ZA,South Africa,North West,,,ZA-NW,,2020-07-24,-18,-7,-14,-26,-21,15
+1839670,ZA,South Africa,North West,,,ZA-NW,,2020-07-25,-14,-1,-20,-29,-5,11
+1839671,ZA,South Africa,North West,,,ZA-NW,,2020-07-26,-22,-6,-18,-30,-2,12
+1839672,ZA,South Africa,North West,,,ZA-NW,,2020-07-27,-16,-9,-11,-32,-26,16
+1839673,ZA,South Africa,North West,,,ZA-NW,,2020-07-28,-17,-9,-8,-23,-26,15
+1839674,ZA,South Africa,North West,,,ZA-NW,,2020-07-29,-16,-9,-5,-32,-26,16
+1839675,ZA,South Africa,North West,,,ZA-NW,,2020-07-30,-15,-8,-6,-17,-27,15
+1839676,ZA,South Africa,North West,,,ZA-NW,,2020-07-31,-13,0,-9,-22,-26,14
+1839677,ZA,South Africa,North West,,,ZA-NW,,2020-08-01,-11,5,-13,-11,-5,9
+1839678,ZA,South Africa,North West,,,ZA-NW,,2020-08-02,-15,3,-9,-13,3,10
+1839679,ZA,South Africa,North West,,,ZA-NW,,2020-08-03,-14,-4,-6,-23,-22,14
+1839680,ZA,South Africa,North West,,,ZA-NW,,2020-08-04,-13,-5,-3,-13,-21,14
+1839681,ZA,South Africa,North West,,,ZA-NW,,2020-08-05,-12,-4,-4,-24,-21,14
+1839682,ZA,South Africa,North West,,,ZA-NW,,2020-08-06,-10,-3,-1,-12,-22,13
+1839683,ZA,South Africa,North West,,,ZA-NW,,2020-08-07,-17,-5,-2,-15,-22,13
+1839684,ZA,South Africa,North West,,,ZA-NW,,2020-08-08,-16,-4,-5,-4,-3,9
+1839685,ZA,South Africa,North West,,,ZA-NW,,2020-08-09,-20,-7,8,-26,-1,11
+1839686,ZA,South Africa,North West,,,ZA-NW,,2020-08-10,-32,-28,25,-32,-64,23
+1839687,ZA,South Africa,North West,,,ZA-NW,,2020-08-11,-20,-13,1,-14,-18,11
+1839688,ZA,South Africa,North West,,,ZA-NW,,2020-08-12,-20,-13,2,-18,-18,14
+1839689,ZA,South Africa,North West,,,ZA-NW,,2020-08-13,-18,-15,1,-13,-19,12
+1839690,ZA,South Africa,North West,,,ZA-NW,,2020-08-14,-16,-7,-4,-17,-18,10
+1839691,ZA,South Africa,North West,,,ZA-NW,,2020-08-15,-16,-7,-9,-18,1,9
+1839692,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-15,-6,-9,-9,,-1,0
+1839693,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-16,-7,-7,-5,,-2,-1
+1839694,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-17,-15,-14,-5,-6,2,1
+1839695,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-18,-11,-11,-1,9,3,1
+1839696,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-19,-15,-16,0,0,1,1
+1839697,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-20,-13,-14,4,10,0,-1
+1839698,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-21,-8,-15,6,12,0,-3
+1839699,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-22,-16,-19,-12,,-2,1
+1839700,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-23,-14,-15,-9,,-2,2
+1839701,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-24,-16,-17,14,-10,2,1
+1839702,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-25,3,-4,6,2,3,-1
+1839703,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-26,0,-7,10,4,3,-1
+1839704,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-27,9,0,12,6,1,-1
+1839705,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-28,21,12,19,18,3,-5
+1839706,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-02-29,17,6,-3,,4,-2
+1839707,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-01,25,18,13,,7,-3
+1839708,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-02,12,11,28,8,8,-1
+1839709,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-03,9,5,17,,9,-1
+1839710,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-04,5,3,9,9,8,0
+1839711,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-05,3,0,17,2,7,0
+1839712,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-06,2,-2,16,12,8,-2
+1839713,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-07,-2,-10,-3,,4,-1
+1839714,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-08,-7,-5,0,,3,1
+1839715,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-09,-12,-11,7,-4,5,1
+1839716,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-10,-8,-13,10,2,4,-1
+1839717,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-11,-10,-15,10,4,3,-2
+1839718,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-12,-6,-13,14,-4,2,-4
+1839719,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-13,1,-8,-2,6,2,-5
+1839720,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-14,-1,-9,-7,,2,-2
+1839721,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-15,-5,-5,-4,,1,0
+1839722,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-16,-9,-2,6,-12,3,2
+1839723,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-17,-9,-9,1,-11,1,2
+1839724,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-18,-10,-9,7,-17,-2,3
+1839725,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-19,-13,-10,11,-28,-6,4
+1839726,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-20,-10,-3,6,-20,-7,3
+1839727,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-21,-26,-17,-7,,-12,5
+1839728,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-22,-29,-14,4,,-5,4
+1839729,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-23,-16,-4,9,-35,-14,6
+1839730,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-24,2,14,3,-41,-14,4
+1839731,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-25,23,26,18,-45,-16,1
+1839732,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-26,27,38,16,-48,-25,1
+1839733,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-27,-79,-61,-39,-80,-67,36
+1839734,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-28,-79,-61,-49,,-44,25
+1839735,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-29,-76,-57,-37,,-34,20
+1839736,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-30,-71,-52,-30,-78,-66,31
+1839737,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-03-31,-66,-45,-22,-74,-65,29
+1839738,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-01,-65,-40,-23,-74,-62,28
+1839739,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-02,-66,-38,-23,-78,-64,31
+1839740,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-03,-70,-43,-36,-82,-62,33
+1839741,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-04,-75,-50,-46,,-38,21
+1839742,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-05,-72,-49,-30,-70,-28,17
+1839743,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-06,-69,-43,-28,-80,-63,31
+1839744,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-07,-67,-41,-27,-70,-63,30
+1839745,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-08,-68,-39,-26,-72,-64,29
+1839746,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-09,-64,-29,-22,-74,-64,29
+1839747,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-10,-85,-78,-49,-82,-78,41
+1839748,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-11,-76,-49,-51,,-41,22
+1839749,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-12,-72,-52,-39,-76,-31,19
+1839750,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-13,-80,-65,-37,-84,-78,37
+1839751,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-14,-64,-39,-29,-78,-61,29
+1839752,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-15,-61,-32,-23,-70,-60,29
+1839753,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-16,-63,-33,-23,-72,-59,29
+1839754,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-17,-66,-39,-31,-72,-57,32
+1839755,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-18,-72,-48,-44,,-34,21
+1839756,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-19,-72,-46,-34,-73,-26,17
+1839757,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-20,-66,-43,-25,-73,-56,28
+1839758,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-21,-67,-44,-25,-72,-56,27
+1839759,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-22,-68,-45,-31,-68,-56,27
+1839760,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-23,-68,-43,-34,-72,-55,27
+1839761,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-24,-64,-38,-37,-69,-53,28
+1839762,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-25,-66,-41,-50,,-29,18
+1839763,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-26,-66,-35,-37,-70,-21,15
+1839764,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-27,-76,-57,-40,-76,-73,34
+1839765,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-28,-57,-33,-32,-66,-52,23
+1839766,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-29,-60,-33,-30,-64,-52,25
+1839767,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-04-30,-52,-20,-24,-67,-49,21
+1839768,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-01,-57,-36,-35,-73,-64,28
+1839769,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-02,-47,-20,-38,,-15,14
+1839770,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-03,-50,-18,-27,-67,-7,12
+1839771,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-04,-35,-17,-11,-55,-35,17
+1839772,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-05,-39,-20,-21,-52,-37,18
+1839773,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-06,-38,-19,-15,-55,-36,18
+1839774,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-07,-37,-16,-14,-59,-35,17
+1839775,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-08,-44,-20,-31,-57,-33,20
+1839776,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-09,-47,-21,-43,,-9,14
+1839777,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-10,-53,-20,-32,-68,-6,12
+1839778,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-11,-43,-26,-20,-60,-34,19
+1839779,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-12,-44,-25,-26,-59,-35,19
+1839780,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-13,-46,-26,-13,-64,-34,19
+1839781,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-14,-46,-24,-14,-60,-34,18
+1839782,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-15,-43,-19,-19,-57,-32,19
+1839783,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-16,-48,-22,-33,,-7,13
+1839784,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-17,-56,-24,-25,-65,-5,12
+1839785,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-18,-42,-24,-9,-57,-33,18
+1839786,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-19,-44,-28,-23,-60,-32,18
+1839787,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-20,-44,-26,-17,-54,-31,19
+1839788,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-21,-45,-25,-20,-63,-34,19
+1839789,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-22,-46,-26,-30,-64,-29,19
+1839790,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-23,-49,-25,-40,,-7,13
+1839791,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-24,-56,-28,-27,-66,-4,12
+1839792,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-25,-40,-23,-18,-58,-32,18
+1839793,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-26,-40,-23,-21,-59,-30,18
+1839794,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-27,-37,-19,-19,-58,-29,18
+1839795,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-28,-35,-16,-17,-55,-28,17
+1839796,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-29,-31,-10,-24,-49,-26,16
+1839797,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-30,-36,-12,-31,,2,10
+1839798,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-05-31,-37,-5,-23,-59,9,9
+1839799,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-01,-14,1,-1,-43,-19,12
+1839800,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-02,-21,-9,-14,-50,-21,13
+1839801,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-03,-23,-8,-2,-47,-19,14
+1839802,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-04,-20,-2,-2,-43,-19,13
+1839803,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-05,-29,-13,-14,-45,-18,13
+1839804,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-06,-34,-15,-31,,5,9
+1839805,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-07,-39,-14,-23,-59,8,8
+1839806,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-08,-27,-11,-7,-48,-17,13
+1839807,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-09,-27,-12,-11,-53,-17,13
+1839808,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-10,-29,-12,-13,-55,-17,15
+1839809,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-11,-24,-10,-13,-55,-19,15
+1839810,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-12,-27,-17,-20,-49,-16,15
+1839811,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-13,-34,-24,-35,,3,12
+1839812,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-14,-39,-23,-25,-60,7,10
+1839813,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-15,-10,-4,-6,-50,-21,13
+1839814,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-16,-41,-33,-17,-71,-59,25
+1839815,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-17,-18,-8,-13,-47,-16,13
+1839816,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-18,-22,-8,-4,-56,-18,13
+1839817,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-19,-27,-15,-20,-54,-17,13
+1839818,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-20,-34,-18,-29,,5,10
+1839819,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-21,-41,-21,-16,-60,6,9
+1839820,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-22,-31,-22,-15,-53,-20,14
+1839821,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-23,-28,-21,-19,-53,-20,13
+1839822,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-24,-28,-18,-11,-48,-17,13
+1839823,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-25,-11,2,-10,-53,-17,12
+1839824,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-26,-17,-6,-15,-50,-19,12
+1839825,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-27,-23,-13,-29,,1,9
+1839826,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-28,-28,-11,-20,-58,2,8
+1839827,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-29,-18,-10,-10,-58,-18,12
+1839828,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-06-30,-4,0,-5,-54,-16,10
+1839829,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-01,-9,1,-4,-45,-14,10
+1839830,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-02,-7,5,-6,-53,-16,11
+1839831,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-03,-15,-5,-16,-52,-14,12
+1839832,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-04,-24,-11,-22,,6,9
+1839833,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-05,-27,-6,-13,-61,8,7
+1839834,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-06,-14,-5,-3,-49,-16,12
+1839835,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-07,-16,-8,-7,-51,-17,12
+1839836,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-08,-22,-10,-12,-54,-16,13
+1839837,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-09,-21,-7,-12,-55,-19,13
+1839838,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-10,-29,-19,-27,-52,-19,14
+1839839,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-11,-40,-28,-40,,-4,12
+1839840,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-12,-40,-27,-27,-59,0,9
+1839841,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-13,-30,-21,-15,-53,-20,13
+1839842,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-14,-31,-26,-25,-55,-22,15
+1839843,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-15,-17,-8,-19,-52,-20,14
+1839844,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-16,-19,-9,-10,-55,-19,13
+1839845,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-17,-24,-13,-21,-54,-18,15
+1839846,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-18,-33,-20,-33,,0,12
+1839847,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-19,-36,-21,-28,-58,-1,11
+1839848,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-20,-24,-14,-16,-52,-20,14
+1839849,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-21,-24,-18,-18,-49,-20,14
+1839850,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-22,-27,-16,-18,-45,-20,15
+1839851,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-23,-26,-16,-11,-52,-21,15
+1839852,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-24,-18,-9,-21,-46,-18,14
+1839853,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-25,-22,-9,-29,,0,11
+1839854,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-26,-27,-10,-18,-61,-1,10
+1839855,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-27,-17,-9,-12,-52,-24,15
+1839856,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-28,-17,-10,-14,-49,-25,15
+1839857,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-29,-16,-8,-9,-40,-25,15
+1839858,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-30,-13,-4,-6,-59,-26,14
+1839859,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-07-31,-7,2,-11,-50,-25,13
+1839860,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-01,-13,-1,-15,,2,8
+1839861,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-02,-14,2,-11,-56,4,8
+1839862,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-03,-9,1,0,-46,-22,13
+1839863,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-04,-8,-1,-5,-46,-21,13
+1839864,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-05,-9,1,-5,-39,-20,13
+1839865,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-06,-11,0,3,-47,-22,13
+1839866,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-07,-17,-6,1,-39,-21,12
+1839867,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-08,-26,-14,-17,,1,9
+1839868,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-09,-28,-16,-2,-54,3,8
+1839869,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-10,-40,-35,2,-65,-64,23
+1839870,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-11,-16,-9,-1,-37,-19,11
+1839871,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-12,-22,-14,-6,-38,-18,13
+1839872,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-13,-18,-11,5,-47,-18,11
+1839873,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-14,-11,-2,-6,-42,-17,10
+1839874,ZA,South Africa,Northern Cape,,,ZA-NC,,2020-08-15,-20,-11,-19,,4,9
+1839875,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-15,-2,-1,4,-3,0,-1
+1839876,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-16,-9,-2,-25,-7,-2,-1
+1839877,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-17,-10,-9,-15,5,4,0
+1839878,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-18,-10,-11,-4,4,4,0
+1839879,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-19,-9,-9,7,3,4,-1
+1839880,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-20,-7,-7,0,3,3,-1
+1839881,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-21,-6,-7,1,5,4,-4
+1839882,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-22,-7,-9,-19,-11,1,1
+1839883,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-23,-10,-4,-20,-13,0,1
+1839884,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-24,-10,-11,-5,2,4,0
+1839885,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-25,0,0,8,6,5,-1
+1839886,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-26,1,1,3,7,5,-2
+1839887,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-27,5,6,-4,7,4,-1
+1839888,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-28,9,9,-10,13,6,-4
+1839889,ZA,South Africa,Western Cape,,,ZA-WC,,2020-02-29,13,12,4,7,7,-2
+1839890,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-01,13,20,-4,5,6,-2
+1839891,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-02,4,6,-4,14,8,-1
+1839892,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-03,2,3,3,12,8,0
+1839893,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-04,1,3,1,11,7,0
+1839894,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-05,2,4,3,11,6,0
+1839895,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-06,2,4,5,12,8,-2
+1839896,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-07,3,3,4,0,4,1
+1839897,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-08,-6,-1,-27,-8,0,1
+1839898,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-09,-8,-7,-16,6,5,1
+1839899,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-10,-7,-8,-11,2,5,-2
+1839900,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-11,-7,-6,-1,3,3,-3
+1839901,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-12,-6,-4,-1,0,2,-3
+1839902,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-13,-3,-1,-5,2,2,-5
+1839903,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-14,-5,-2,-9,-7,3,1
+1839904,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-15,-12,-1,-38,-13,-1,2
+1839905,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-16,-9,7,-19,-5,0,3
+1839906,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-17,-15,-3,-13,-12,-5,5
+1839907,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-18,-17,-5,-10,-13,-10,7
+1839908,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-19,-22,-6,-8,-20,-16,10
+1839909,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-20,-24,-5,-22,-22,-16,9
+1839910,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-21,-32,-9,-24,-28,-19,10
+1839911,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-22,-37,-11,-30,-38,-15,7
+1839912,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-23,-25,-2,-23,-32,-25,12
+1839913,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-24,-13,17,-29,-29,-26,11
+1839914,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-25,-2,30,-32,-24,-28,9
+1839915,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-26,4,60,-29,-35,-35,8
+1839916,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-27,-85,-67,-81,-85,-78,40
+1839917,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-28,-85,-64,-86,-84,-65,30
+1839918,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-29,-85,-64,-87,-87,-58,22
+1839919,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-30,-78,-54,-78,-84,-77,36
+1839920,ZA,South Africa,Western Cape,,,ZA-WC,,2020-03-31,-77,-51,-77,-84,-77,36
+1839921,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-01,-75,-45,-75,-83,-76,36
+1839922,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-02,-75,-44,-75,-83,-77,37
+1839923,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-03,-77,-46,-78,-83,-76,38
+1839924,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-04,-80,-52,-84,-82,-61,28
+1839925,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-05,-82,-57,-86,-85,-55,21
+1839926,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-06,-78,-52,-78,-85,-77,37
+1839927,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-07,-77,-48,-77,-85,-77,37
+1839928,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-08,-76,-44,-74,-84,-76,36
+1839929,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-09,-72,-34,-74,-83,-76,36
+1839930,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-10,-86,-67,-81,-88,-88,44
+1839931,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-11,-80,-50,-85,-83,-62,28
+1839932,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-12,-83,-60,-87,-86,-56,22
+1839933,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-13,-84,-62,-81,-89,-87,42
+1839934,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-14,-75,-46,-76,-84,-75,36
+1839935,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-15,-74,-43,-75,-84,-75,36
+1839936,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-16,-75,-42,-75,-84,-75,37
+1839937,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-17,-76,-43,-77,-84,-74,38
+1839938,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-18,-80,-50,-85,-82,-58,27
+1839939,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-19,-83,-55,-86,-85,-53,21
+1839940,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-20,-78,-53,-79,-84,-74,36
+1839941,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-21,-77,-51,-78,-83,-73,36
+1839942,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-22,-77,-50,-75,-84,-73,35
+1839943,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-23,-77,-48,-76,-84,-73,36
+1839944,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-24,-74,-41,-78,-82,-72,36
+1839945,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-25,-74,-41,-84,-78,-55,25
+1839946,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-26,-77,-43,-86,-83,-51,20
+1839947,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-27,-79,-53,-81,-87,-85,40
+1839948,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-28,-71,-42,-76,-81,-70,32
+1839949,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-29,-72,-41,-74,-81,-71,34
+1839950,ZA,South Africa,Western Cape,,,ZA-WC,,2020-04-30,-68,-33,-72,-79,-70,33
+1839951,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-01,-69,-39,-71,-81,-79,37
+1839952,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-02,-65,-33,-77,-71,-45,23
+1839953,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-03,-71,-40,-83,-77,-41,19
+1839954,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-04,-56,-31,-66,-71,-58,27
+1839955,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-05,-59,-33,-66,-71,-59,29
+1839956,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-06,-57,-29,-63,-69,-58,28
+1839957,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-07,-58,-28,-63,-71,-59,29
+1839958,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-08,-60,-30,-68,-73,-57,30
+1839959,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-09,-60,-27,-76,-70,-38,21
+1839960,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-10,-68,-34,-80,-78,-35,17
+1839961,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-11,-60,-38,-67,-73,-57,28
+1839962,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-12,-60,-36,-67,-73,-57,29
+1839963,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-13,-60,-35,-65,-72,-56,28
+1839964,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-14,-59,-34,-64,-74,-57,28
+1839965,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-15,-60,-32,-70,-73,-56,29
+1839966,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-16,-61,-31,-76,-71,-36,21
+1839967,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-17,-67,-37,-78,-77,-34,17
+1839968,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-18,-57,-37,-67,-73,-54,27
+1839969,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-19,-58,-36,-65,-74,-55,27
+1839970,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-20,-57,-32,-62,-72,-55,27
+1839971,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-21,-58,-32,-64,-74,-56,29
+1839972,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-22,-58,-31,-67,-73,-53,28
+1839973,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-23,-59,-29,-74,-70,-35,21
+1839974,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-24,-65,-33,-78,-77,-33,17
+1839975,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-25,-59,-38,-73,-75,-56,28
+1839976,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-26,-55,-32,-71,-73,-52,27
+1839977,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-27,-50,-24,-65,-71,-50,25
+1839978,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-28,-55,-27,-68,-73,-52,28
+1839979,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-29,-53,-24,-70,-69,-49,27
+1839980,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-30,-51,-20,-72,-64,-25,18
+1839981,ZA,South Africa,Western Cape,,,ZA-WC,,2020-05-31,-57,-23,-74,-71,-21,14
+1839982,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-01,-35,-14,-49,-62,-42,20
+1839983,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-02,-42,-21,-53,-64,-43,22
+1839984,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-03,-41,-18,-49,-64,-43,22
+1839985,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-04,-40,-14,-43,-63,-43,22
+1839986,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-05,-45,-21,-52,-62,-42,22
+1839987,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-06,-46,-20,-49,-61,-22,16
+1839988,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-07,-53,-26,-49,-68,-21,13
+1839989,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-08,-41,-21,-52,-63,-41,21
+1839990,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-09,-43,-21,-52,-64,-41,22
+1839991,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-10,-52,-31,-65,-68,-45,25
+1839992,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-11,-49,-26,-63,-68,-45,25
+1839993,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-12,-46,-24,-56,-65,-41,23
+1839994,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-13,-47,-24,-53,-63,-19,17
+1839995,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-14,-57,-32,-58,-71,-19,14
+1839996,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-15,-36,-18,-44,-62,-44,21
+1839997,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-16,-49,-31,-16,-72,-72,30
+1839998,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-17,-41,-21,-39,-60,-40,20
+1839999,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-18,-40,-19,-38,-63,-41,21
+1840000,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-19,-44,-23,-47,-63,-41,21
+1840001,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-20,-44,-19,-51,-61,-17,16
+1840002,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-21,-59,-34,-68,-72,-16,14
+1840003,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-22,-43,-30,-48,-63,-42,21
+1840004,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-23,-43,-28,-43,-63,-42,22
+1840005,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-24,-41,-24,-36,-63,-41,20
+1840006,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-25,-34,-9,-48,-62,-41,21
+1840007,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-26,-38,-15,-56,-62,-41,21
+1840008,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-27,-46,-21,-72,-66,-23,17
+1840009,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-28,-46,-19,-57,-67,-16,12
+1840010,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-29,-37,-21,-55,-62,-40,20
+1840011,ZA,South Africa,Western Cape,,,ZA-WC,,2020-06-30,-31,-14,-37,-60,-39,18
+1840012,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-01,-31,-12,-34,-57,-39,18
+1840013,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-02,-33,-9,-46,-60,-40,21
+1840014,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-03,-34,-14,-39,-56,-38,19
+1840015,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-04,-36,-14,-40,-55,-16,14
+1840016,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-05,-46,-22,-54,-66,-16,12
+1840017,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-06,-34,-18,-43,-58,-39,19
+1840018,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-07,-34,-16,-42,-60,-40,19
+1840019,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-08,-33,-14,-31,-58,-38,18
+1840020,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-09,-44,-22,-59,-65,-43,22
+1840021,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-10,-47,-27,-64,-67,-43,22
+1840022,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-11,-44,-23,-55,-63,-21,15
+1840023,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-12,-46,-26,-41,-67,-18,10
+1840024,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-13,-49,-35,-63,-67,-44,21
+1840025,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-14,-43,-29,-53,-64,-42,19
+1840026,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-15,-36,-19,-37,-62,-39,17
+1840027,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-16,-37,-18,-35,-62,-40,19
+1840028,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-17,-38,-19,-39,-60,-38,19
+1840029,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-18,-40,-19,-36,-61,-19,15
+1840030,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-19,-44,-23,-29,-68,-19,11
+1840031,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-20,-40,-26,-43,-62,-39,19
+1840032,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-21,-41,-27,-40,-64,-40,19
+1840033,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-22,-40,-24,-36,-63,-39,19
+1840034,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-23,-39,-22,-36,-64,-39,20
+1840035,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-24,-34,-15,-37,-59,-37,18
+1840036,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-25,-29,-8,-30,-58,-17,13
+1840037,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-26,-38,-14,-47,-66,-18,11
+1840038,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-27,-35,-19,-44,-63,-45,21
+1840039,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-28,-33,-17,-45,-61,-42,20
+1840040,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-29,-31,-15,-34,-60,-42,19
+1840041,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-30,-31,-12,-34,-60,-43,19
+1840042,ZA,South Africa,Western Cape,,,ZA-WC,,2020-07-31,-28,-7,-34,-56,-41,17
+1840043,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-01,-31,-8,-27,-55,-18,11
+1840044,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-02,-32,-10,-20,-61,-16,8
+1840045,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-03,-31,-15,-41,-58,-40,18
+1840046,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-04,-34,-16,-53,-60,-40,20
+1840047,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-05,-29,-11,-36,-58,-39,18
+1840048,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-06,-30,-10,-38,-57,-40,18
+1840049,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-07,-30,-11,-24,-55,-39,16
+1840050,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-08,-32,-12,-23,-56,-20,11
+1840051,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-09,-50,-29,-61,-69,-26,12
+1840052,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-10,-37,-27,-4,-70,-76,25
+1840053,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-11,-38,-24,-48,-61,-39,18
+1840054,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-12,-37,-21,-46,-60,-38,19
+1840055,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-13,-34,-18,-32,-58,-38,17
+1840056,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-14,-32,-14,-37,-56,-36,16
+1840057,ZA,South Africa,Western Cape,,,ZA-WC,,2020-08-15,-37,-16,-59,-60,-18,15

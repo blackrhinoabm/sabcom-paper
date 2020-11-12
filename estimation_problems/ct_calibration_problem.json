@@ -1,0 +1,1 @@
+{"num_vars": 4, "names": ["probability_transmission", "total_initial_infections", "private_shock_stdev", "weight_private_signal"], "bounds": [[0.025, 0.035], [1000, 3500], [0.0001, 0.01], [0.05, 0.7]], "initial": [0.03, 1500.0, 0.001, 0.1, 0.8], "integer": [false, true, false, false]}
